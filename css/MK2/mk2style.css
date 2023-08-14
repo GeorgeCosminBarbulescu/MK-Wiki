@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+h1,h2,h3,h4,h5,h6,p {font-family:"mk2";}
+
+h2, h3 {
+	margin-top:15px;
+	margin-bottom:10px;
+	background:url(Imagini/listbar.jpg) repeat-x scroll 0 0;
+	border-top:1px solid #860308;
+	border-bottom:1px solid #860308;
+	font-family:"CLARENDO";
+	font-size:24px;
+	text-align:left;
+	padding:0 0 0 5px;
+}
+
+p {
+	color:#FFFFFF; 
+    font-size:20px;
+}
+
+.right {
+	float:right;
+	margin:5px;
+}
+
+.left {
+	float:left;
+	margin:5px;
+}
+
+#fighters {
+	text-align:center;
+	width:800px;
+}
+
+#fighters a img {
+	margin:-1px;
+	padding:5px;
+	border:1px solid #860308;
+}
+
+#fighters a:hover img {
+	background:none repeat scroll 0 0 #860308;
+	border-color:#860308;
+}

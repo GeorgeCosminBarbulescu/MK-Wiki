@@ -1,0 +1,5324 @@
+		      Mortal Kombat RO Wiki
+		    Mortal Kombat: Armageddon
+		       Special Moves Guide
+	  	For PlayStation 2, X-Box, and Wii
+
+
+		====	   	   ============
+		Move	   	   Abbreviation
+		====	   	   ============
+
+		Back			B
+		Forward			F
+		Down			D
+		Up			U
+		Attack 1		1
+		Attack 2		2
+		Attack 3		3
+		Attack 4		4
+		Change Style		CS
+		Block			BL
+		Throw			Throw
+
+================
+Console Specific
+================
+
+=======================================================
+Move        Abbreviation   PS2            X-Box      
+=======================================================
+Attack 1        1          Square         X
+Attack 2        2          Triangle       Y
+Attack 3        3          X              A
+Attack 4        4          Circle         B
+Throw	      Throw	   R1		  Right Button
+
+=======================================================
+Move        Abbreviation   Wii Classic    Wii GC      
+=======================================================
+Attack 1        1          x		  ?
+Attack 2        2          x	          ?
+Attack 3        3          B		  ?
+Attack 4        4          A		  ?
+Throw	      Throw	   ?		  ?
+==============================================================================
+Fatalities:
+
+The following is a list of fatality moves. Fatalities with [Boss] indicate 
+moves that only "Boss characters" can perform: Onaga, Kintaro, Shao Kahn, 
+Goro, Sheeva, Moloch, and Motaro. Fatalities with [Sword] indicate moves that 
+only characters with swords can perform.
+
+Knees behind
+
+Left, Left + 4 (head rip)
+[Boss] Left, Left + 4 (head rip)
+Knees behind chains
+
+Left, Left + 1 (two uses)
+[Boss] Right, Right + 1 (kick, two uses) Face down
+
+Right, Right + 4 (spine rip)
+[Sword] Right, Right + 4 (face stab) [Boss] Up, Up + 4 (head pop) 
+[Boss] Up, Down + 4 (exploding torso) Face down transitions
+
+Down, Left + 2 (end position: forward) Down, Left + 1 (end 
+position, knees) Up, Down, Up + 1 (pull out sword) [Boss] Down, Up, 
+2 (end position, knees) Face down chains
+
+Left, Left + 1 (knee drop, one use) Up, Up + 1 (back stomp, two 
+uses) Right, Right + 1 (punch, one use) [Boss] Right, Right + 1 
+(head punch, one use) Face up
+
+Right, Right + 4 (head stomp 1)
+Left, Left + 4 (head stomp 2)
+[Sword] Up, Up + 4 (decapitate)
+[Sword] Left, Left + 4 (head stab) [Boss] Down, Down + 4 (head 
+punch) [Boss] Left, Down + 4 (arms off) Face up transitions
+
+Down, Left + 1 (end position: behind) Down, Right + 2 (end 
+position: knees behind) Up, Down, Up + 1 (pull out sword) [Boss] Down, 
+Left + 2 (end position behind) [Boss] Down, Right + 2 (end 
+position knees behind) Face up chains
+
+Right, Right + 2 (punch, one use) Right, Down + 1 (knee, two uses)
+==============================================================================
+
+
+=======================================================
+Scorpion
+=======================================================
+
+Hapkido:
+
+Right cross                             1
+Face Strike                             B + 1
+Twisting Palm                           D + 1
+Neck Chop                               2
+Hammer Uppercut                         D + 2
+Axe Kick                                3
+Knee Knockdown                          F + 3
+Back Sweep                              D + 3
+Forward Snap Kick                       4
+Backside Kick                           B + 4
+Front Thrust Kick                       U + 4
+Front Sweep                             D + 4
+Left Cross                              2, 2
+Chained Up                              2, 3
+Hop Sweep                               F + 3, B + 3
+Lethal Legs                             4, B + 4
+Lifthoff                                4, U + 4
+Flowing Water                           2, 2, 1
+Rear Ended                              2, 3, B + 1
+Tripple Combo                           2, 2, 3
+Inner Power                             2, 2, 4
+Burning Soul                            2, 3, U + 4
+Fallout (While In The Air)              1
+Airborne (While In The Air)             2
+Straight Up (While In The Air)          3
+Over Head Air Toss (While In The Air)   4
+Flying Kick (While In The Air)          1, 1
+Power Slam (While In The Air)           2, 2
+Straight Forward (While In The Air)     3, 3
+Gravity Strike (While In The Air)       1, 1, 1
+Toss Ya! (While In The Air)             1, 1, 2
+Ending It Now (While In The Air)        1, 1, 3
+Grounded (While In The Air)             3, 3, 2
+Air Death (While In The Air)            1, 1, 4
+Air Kick (While In The Air)             3, 3, 3
+Time To Hover (While In The Air)        3, 3, 4
+Hell's Warrior                          2, 3, CS
+Overlord Of Darkness                    3, B + 1
+
+Mygai Ryu:
+
+Bloody Tip                              1
+Hilt Blunt                              F + 1
+Ducking Horizontal Slash                D + 1
+Horizontal Slash                        2
+Swinging Vengeance                      U + 2
+Dark Lifter                             F + 2
+2-Handed Uppercut                       D + 2
+Fiery Saber                             3
+Speed Demon                             B + 3
+Agony's Edge				F + 3
+Low Thigh Slash				D + 3
+Gut Slicer				4
+Foot Decapitator			B + 4
+Toe Poke				D + 4
+Bloodfire				2, 2
+Bloodbath				2, 2, 1
+Swift Fire				2, 2, 4
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Knee Launcher				Throw
+Bloody Spear				B, F + 1
+Hellfire				D, B + 2
+Backflip Kick				F, B + 3
+Hellfire Punch				F, B + 4
+
+=======================================================
+Sub Zero
+=======================================================
+
+Shotokan:
+
+Spear Blast				1
+Elbow Strike				B + 1
+Lower Knee Strike			D + 1
+Sword Hand Strike			2
+Mountain Punch				B + 2
+Rising Jackhammer			D + 2
+Rising thrust Kick			3
+Side Snap Kick				F + 3
+Low Snap Kick				D + 3
+Thrust Kick				4
+Toe Charge				B + 4
+Low Strike				D + 4
+Cold As Ice				1, 1
+Super Chopper				1, 2
+King's Crown				3, F + 3
+Triple Threat				1, 1, 1
+Cloud Hands				1, 2, B + 1
+Iron Horse				1, 2, B + 2
+Cold Feet				1, 1, 2
+Cheap Cold Shot				1, 1, 4
+Icy Pain				1, 2, 3
+Deep Chop				1, 1, 3, 2
+Peaceful Mind				1, 1, 3, B + 2
+Top High Kick				1, 1, 3, F + 3
+Fallout (While In The Air)              1
+Airborne (While In The Air)             2
+Straight Up (While In The Air)          3
+Over Head Air Toss (While In The Air)   4
+Flying Kick (While In The Air)          1, 1
+Power Slam (While In The Air)           2, 2
+Straight Forward (While In The Air)     3, 3
+Gravity Strike (While In The Air)       1, 1, 1
+Toss Ya! (While In The Air)             1, 1, 2
+Ending It Now (While In The Air)        1, 1, 3
+Grounded (While In The Air)             3, 3, 2
+Air Death (While In The Air)            1, 1, 4
+Air Kick (While In The Air)             3, 3, 3
+Time To Hover (While In The Air)        3, 3, 4
+Spiked Blade				1, 1, 3, CS
+Uprising Hero				3, B+2
+
+Kori Blade:
+
+Overhead Swing				1
+Spinning Slash				B + 1
+Overhead Spike				U + 1
+Downward Stab				D + 1
+Blade Lunge				2
+Icy Lift				B + 2
+Kori Uppercut				D + 2
+Frosty Slash				3
+Sweeping Steel				B + 3
+Thigh Ripper				D + 3
+Back Kick				4
+Sweep Kick				B + 4
+Crouching Slash				D + 4
+Bitter Blade				1, B + 1
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Rib Breaker				Throw
+Ice Clone				D, B + 1
+Freeze Ball				D, F + 3
+Cold Shoulder				B, F + 4
+Icy Pillar				D, U + 2
+
+=======================================================
+Reptile
+=======================================================
+
+Pao Chui:
+
+Knee Strike				1
+Power Fist				B + 1
+Ducking Huge hand			D + 1
+hammock Fists				2
+Upward Cannon				B + 2
+Cannon Uppercut				D + 2
+Rib Sidekick				3
+Foul Strike				B + 3
+Low heel Kick				D + 3
+Soaring Crane Feet			4
+Strong Foot Plant			U + 4
+Creeping Heels				D + 4
+Sunshine				1, 1
+Bullet Kick				3, 3
+Dummy Attack				4, 1
+Open Poke				4, 3
+Rising Cannon Legs			4, U + 4
+Q-Fists					1, 1, B + 1
+Sunset					1, 1, B + 2
+tripple Kicks				3, 3, 3
+Onslaught (While In The Air)		1
+Spin cycle (While In The Air)		2
+Big Blast Combo (While In The Air)	3
+Rain Drop (While In The Air)		4
+Medium Hit (While In The Air)		1, 1
+The Twist (While In The Air)		3, 3
+take Off (While In The Air)		1, 1, 1
+Power Spin (While In The Air)		1, 1, 2
+Twister (While In The Air)		1, 1, 3
+Drop Down (While In The Air)		1, 1, 4
+Fierce Power (While In The Air)		3, 3, 2
+Kick Back (While In The Air)		3, 3, 3
+Bird Toss (While In The Air)		3, 3, 4
+Hurricane (While In The Air)		1, 1, 3, 2
+Gravity Strikes (While In The Air)	1, 1, 3, 3
+Over Head Air Toss (While In The Air)	1, 1, 3, 4
+Tainted Scales				1, 1, CS
+Sneaky Lizard				4, 1, 1, B + 1
+
+Kirehashi:
+
+Quick Shredder				1
+Fly Away				B + 1
+Face Attack				U + 1
+Ducking Horizontal Slash		D + 1
+Mid Slice Blade				2
+midman Slice				B + 2
+2-Handed uppercut			D + 2
+Midsection Slash			3
+Fallen Blade				B + 3
+Low thigh Slash				D + 3
+Fancy Wrist Swing			4
+Sun Beam				B + 4
+Toe Poke				D + 4
+Green Shadow				1, 2
+Fire Lizard				2, 2
+Lizard Power				3, 3
+Slime Blade				1, 4
+Reptilian Skin				1, 2, 2
+Twisted Teal Secret			2, 2, 3
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+Free Lizard				2, 2
+Stuned Poison				3, 3
+
+Special Moves:
+
+Flying Serpent				Throw
+Running Serpent				B, F + 3
+Chameleon				U, D + 2
+Rolling Spikes				D, B + 4
+Acid Spit				B, F + 1
+
+=======================================================
+Rain
+=======================================================
+
+Zi Ran Men:
+
+Reaching Punch				1
+knee Punch				D + 1
+2-Hand Knee Strike			2
+natural Palm				F + 2
+Radical uppercut			D + 2
+Giant Kick				3
+Shin Destroyer				B + 3
+Foot Smash				D + 3
+Sidekick Bruiser			4
+Shin Spin				D + 4
+Perfect Form				1, 1
+Good Seasons				2, F + 2
+Sneaky Heels				B + 3, F + 3
+Bloody Boots				4, 4
+Mind And Body				1, 1, 3
+Onslaught (While In The Air)		1
+Spin cycle (While In The Air)		2
+Big Blast Combo (While In The Air)	3
+Rain Drop (While In The Air)		4
+Medium Hit (While In The Air)		1, 1
+The Twist (While In The Air)		3, 3
+take Off (While In The Air)		1, 1, 1
+Power Spin (While In The Air)		1, 1, 2
+Twister (While In The Air)		1, 1, 3
+Drop Down (While In The Air)		1, 1, 4
+Fierce Power (While In The Air)		3, 3, 2
+Kick Back (While In The Air)		3, 3, 3
+Bird Toss (While In The Air)		3, 3, 4
+Hurricane (While In The Air)		1, 1, 3, 2
+Gravity Strikes (While In The Air)	1, 1, 3, 3
+Over Head Air Toss (While In The Air)	1, 1, 3, 4
+Storm Weather				2, F + 2, CS
+
+Storm Sword:
+
+Fury Strike				1
+Face Slash				B + 1
+Thing Slash				D + 1
+Hori-Slash				2
+Misty Edge				B + 2
+Uppercut Blade				D + 2
+Brain Damage				3
+Lunging Low Stab			B + 3
+Quick Upward Slash			F + 3
+pelvis Stab				D + 3
+Guri-Ki					4
+Ankle Slice				B + 4
+Wheel Spins				U + 4
+Low Leg Slice				D + 4
+Rainfall				2, 2
+Rainy Sword				2, 2, 1
+Dazzle					4, 4, 4
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Flip Over Strike			Throw
+Water Blast				B, F + 1
+Shocking Bolt				D, U + 2
+Mystic Vapors				U, D + 3
+Windy Feet				B, F + 4
+
+=======================================================
+Ermac
+=======================================================
+
+Choy Lay Fut:
+
+Tiger Claw				1
+Sloping Ridgehand			U + 1
+Deadly Palm				F + 1
+Kneecap Strike				D + 1
+Rising Ridgehand			2
+Ridged Knife Chop			B + 2
+Grasping Uppercut			D + 2
+Twin Fingers				B + 3
+Choy Lay Fut				D + 3
+Jermac Sidekick				4
+Dragon's tail				B + 4
+Sneak Kick				F + 4
+Whirlind Demon				D + 4
+Nitro Strikes				1, 1
+Strong Mule				1, U + 1
+Grasping Fingers			1, 1, 2
+Carving The Way				1, 1, B + 2
+Twin Ox					1, 1, 3
+Bloody Master				1, 1, 4
+Cyclone (While In The Air)		1
+Blue Sky (While In The Air)		2
+Hovering Strike (While In The Air)	3
+Dead Meat (While In The Air)		4
+Jab Me (While In The Air)		1, 1
+Air Waves (While In The Air)		3, 3
+Take It	 (While In The Air)		1, 1, 1
+Red Sky (While In The Air)		1, 1, 2
+Wavelength (While In The Air)		1, 1, 3
+Fallen Hero (While In The Air)		1, 1, 4
+Buzzsaw					1, 1, 2, CS
+Mid Attack 				3
+
+Axe:
+
+Overhead Slice				1
+Whirling Blade				B+1
+Sideways Cut				F + 1
+Power Jab				D + 1
+Horizontal Slash			2
+Windy Axe				B + 2
+Slice You In Two			U + 2
+Unresting Axe				D + 2
+Stomach Mash				3
+Low Slasher				B + 3
+Pelvis Cut				U + 3
+Foot Slice				D + 3
+Ankle Slicer				D + 4
+Slice And Attack			1, 3
+Quick Fist				1, 3, 4
+Tricky Heels				1, 3, 4, 4
+Shadow Tricks				1, 3, 4, 4, 4
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+Quick Punch				4
+Fast hands				4, 4, 4
+
+Special Moves:
+
+Set And Strike				Throw
+Mystic Float				D, U + 3
+Mystic Bomb (Only During Mystic Float)	D + 3
+Dive Kick (Only During Mystic Float)	F + 3
+Telekenetic Throw			F, B + 2
+Hado-Energy				D, B + 1
+Tele-Kinetic Slam			B, D, B + 4
+
+=======================================================
+Chameleon
+=======================================================
+
+Crane:
+
+Crane Neck				1
+Stomach Smack				B + 1
+Low Palm Stike				D + 1
+Flapping Attack				2
+String Knee				B + 2
+Uppercut Kick				D + 2
+Face Kick				3
+Spinning Knee Kick			D + 3
+leg Attack				D + 4
+Flying Beak				1, 1
+					B + 1, B + 3
+Dirty Bird				3, 3
+3-Hit Wings				1, 1, 1
+Death Bed				3, 3, 2
+Poke Surprise				1, 1, 4
+ugly Swan				3, 3, 3
+crane Surprise				3, 3, 4
+Sidewinder				3, 3, B + 4
+Diving Crane				1, 1, 1, U + 4
+Crunchy Kick				3, 3, 3, B + 3
+Poke Second Surprise			1, 1, 4, 4
+Second Surprise				3, 3, 4, 4
+Cyclone (While In The Air)		1
+Blue Sky (While In The Air)		2
+Hovering Strike (While In The Air)	3
+Dead Meat (While In The Air)		4
+Jab Me (While In The Air)		1, 1
+Air Waves (While In The Air)		3, 3
+Take It	 (While In The Air)		1, 1, 1
+Red Sky (While In The Air)		1, 1, 2
+Wavelength (While In The Air)		1, 1, 3
+Fallen Hero (While In The Air)		1, 1, 4
+Hidden Colors				1, 1, CS
+Killer Kombo				3, 3, 3, 1, 1, CS
+Hunting Prey				3, 3, 3, 1, 1, 1, U + 4
+Color Changer				3, 3, 3, 1, 1, 1
+Pop Kick				B + 3
+Stomach Kick				4
+Leaping Crane				U + 4
+
+Ninja Sword:
+
+Stomach Slash				1
+HOrizontal Stab				D + 1
+Turning Blade				2
+Belly Splitter				D + 2
+Upward Swing				3
+Mid-Section Slash			F + 3
+Mid Thigh Slash				D + 3
+Shoulder Cut				4
+Knee Slash				D + 4
+Flame Of Death				1, 2
+Hidden Agenda				1, 3
+Stinky Lizard				4, 1
+Up And Down				4, 3
+hot Bladez				4, 4
+Change Of Wind				4, 1, 1
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Slithery Grab				Throw
+Green Wave				D, B + 1
+Lizard Lightning			D, U + 2
+Speedy Serpent				B, F + 3
+Vanishing Kick				D, B + 3
+Freezing Charge				B, F + 4
+
+=======================================================
+Noob
+=======================================================
+
+Monkey:
+
+Sloth Fist				1
+Downward Slap				F + 1
+Low Twisting Slap			D + 1
+Hooking Wrist				2
+Berzerk Slap				B + 2
+Palm uppercut				D + 2
+Thrust Kick				3
+Leg Scraper				B + 3
+Puch Kick				D + 3
+Bad Monkey				4
+Monkey Push				B + 4
+Whirling Low Kick			D + 4
+Tree Monkey				1, 1
+Going Ape				2, 1
+Krazy Apes				2, 4
+Outworld Guard				1, 1, B + 2
+Climbing Trees				1, 1, 3
+Onslaught (While In The Air)		1
+Spin cycle (While In The Air)		2
+Big Blast Combo (While In The Air)	3
+Rain Drop (While In The Air)		4
+Medium Hit (While In The Air)		1, 1
+The Twist (While In The Air)		3, 3
+take Off (While In The Air)		1, 1, 1
+Power Spin (While In The Air)		1, 1, 2
+Twister (While In The Air)		1, 1, 3
+Drop Down (While In The Air)		1, 1, 4
+Fierce Power (While In The Air)		3, 3, 2
+Kick Back (While In The Air)		3, 3, 3
+Bird Toss (While In The Air)		3, 3, 4
+Hurricane (While In The Air)		1, 1, 3, 2
+Gravity Strikes (While In The Air)	1, 1, 3, 3
+Over Head Air Toss (While In The Air)	1, 1, 3, 4
+Prowler					1, 1, CS
+
+Troll Hammer
+
+Spike Splitter				1
+Hammer Pain				B + 1
+Blunt End				D + 1
+Screaming Hammer			2
+Smack With Da Hammer			F + 2
+Power Swing				D + 2
+hammer Stomper				3
+Low Hammer Hit				F + 3
+Shin Destroyer				D + 3
+Power Kick				4
+krazy Hammer				B + 4
+Cheap Shot				D + 4
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Shadow Kick				Throw
+Darkness				U, D + 1
+Teleport Grab				D, U + 2
+Dark Assassin				D, F + 3
+Black Hole				D, F + 4
+
+=======================================================
+Smoke
+=======================================================
+
+Mit Zu:
+
+Lunge Attack				1
+Thigh Break				B + 1
+Low Quick Claw				D + 1
+Rib Slap				2
+Dual Upward Wrists			F + 2
+Cannon Uppercut				D + 2
+Axe Kick				3
+Sneak Kick				D + 3
+Reaching Toe Poke			4
+Dancing Foot				B + 4
+Shattering Kick				U + 4
+Low Flat Kick				D + 4
+Flowing Wing				1, 1
+unge Strikes				1, 2
+king Palms				1, 2, F + 2
+Lightning Axe Kick			1, 1, 3
+Long Ranged Strike			1, 2, 4
+Fallout (While In The Air)              1
+Airborne (While In The Air)             2
+Straight Up (While In The Air)          3
+Over Head Air Toss (While In The Air)   4
+Flying Kick (While In The Air)          1, 1
+Power Slam (While In The Air)           2, 2
+Straight Forward (While In The Air)     3, 3
+Gravity Strike (While In The Air)       1, 1, 1
+Toss Ya! (While In The Air)             1, 1, 2
+Ending It Now (While In The Air)        1, 1, 3
+Grounded (While In The Air)             3, 3, 2
+Air Death (While In The Air)            1, 1, 4
+Air Kick (While In The Air)             3, 3, 3
+Time To Hover (While In The Air)        3, 3, 4
+Spinning Pane				1, 2, 4, CS
+
+Judo:
+
+Suplex					1
+thrusting Palms				B + 1
+Low Palm Strike				D + 1
+Off Balance throw			2
+Standing Uppercut			B + 2
+Uppercut				D + 2
+Back Kick				3
+Backwards Shin				B + 3
+Spinning Knee Kick			D + 3
+Snap Side Kick				4
+Wheel Kick				B + 4
+Low Ankle Attack			D + 4
+Shinny Kicks				4, 4
+Kick Toss				4, 4, 1
+Kicky Trip				4, 4, 2
+Judo Uppercut				4, 4, B + 2
+Ground Work				4, 4, 3
+Metral Fury				4, 4, B + 2
+
+Special Moves:
+
+Dizzy Knee				Throw
+Stinky Cloud				D, B + 1
+Stinky Fingers				B, F + 2
+Play Dead				U, D + 3
+Robo-Punch				D, F + 3
+Smokey Cut				F, F + 4
+
+=======================================================
+Cyrax
+=======================================================
+
+Ninjitsu:
+
+Straight Attack				1
+Ninja Hit				B + 1
+Ninja Punch				D + 1
+Strong Elbow				2
+Double Fist Strike			U + 2
+Uppercut				D + 2
+Spinning Attack				3
+Slip Kick				B + 3
+Low Mid Kick				D + 3
+Front Kick				4
+Low Foot Press				D + 4
+Ninja Strikes				1, 1
+Lenghtly Kombo				1, 1, 1
+Cyborg Strikes				1, 1, B + 1
+Stealth Blast				1, 1, 2
+robot Punsh				1, 1, U + 2
+Lost In Darkness			1, 1, 3
+Ambush (While In The Air)		1
+Danger Swipe (While In The Air)		2
+Psycho Spin (While In The Air)		3
+Over Head Air Toss (While In The Air)	4
+Downward Swat (While In The Air)	1, 1
+Tornado Twist (While In The Air)	3, 3
+Take Off (While In The Air)		1, 1, 1
+Tear Down (While In The Air)		1, 1, 2
+Mosoon (While In The Air)		1, 1, 3
+Down Slash (While In The Air)		3, 3, 1
+Flying Human (While In The Air)		3, 3, 2
+Whipcrack (While In The Air)		1, 1, 4
+Air Sails (While In The Air)		3, 3, 3
+Flicker (While In The Air)		3, 3, 4
+Throwdown (While In The Air)		1, 1, 3, 2
+Splashdown (While In The Air)		3, 3, 1, 1
+Sailing Away (While In The Air)		1, 1, 3, 3
+Whiplasher (While In The Air)		1, 1, 3, 4
+Sinking Hero (While In The Air)		3, 3, 1, 4
+Cyber Light				1, 1, CS
+
+Pulse Blade:
+
+Chest Slash				1
+Fast Lazer Swing			B + 1
+Thigh Slash				D + 1
+Burning Pulse				2
+Lifting Light				B + 2
+Saber Cut				D + 2
+Turning Boot				3
+Serpent Sweep				B + 3
+Leg Slash				D + 3
+Wristy Spin				4
+Lag Stab				D + 4
+Witty Mind				1, 1
+Yellow Jacket Sting			2, 1
+Pulse Falcon				2, B + 1
+Pure Energy				2, 1, 1
+Mind Control				1, 1, 3
+Frenzy Swirls				1, 1, 4
+Powerhourse (While In The Air)		1
+Lucky Change (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Face Kicked (While In The Air)		1, 1
+Wind Kick (While In The Air)		3, 3
+Vicious Boots (While In The Air)	1, 1, 1
+Back Flip Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Foot Grab (While In The Air)		1, 1, 4
+Flip Back (While In The Air)		3, 3, 2
+Boot To The Face (While In The Air)	3, 3, 3
+Hell Toss (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Foot Assault (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Armbreaker Throw			Throw
+Detonator Far				B, F + 1
+Funky Spin Kicks			D, B + 3
+Detonator Close				F, B + 1
+Exploding Teleport			D, U + 2
+Slice And Dice				B, F + 4
+
+=======================================================
+Sektor
+=======================================================
+
+Kenpo:
+
+Throat Chop				1
+Spinning Elbow				B+1
+Leaping Strike				U + 1
+Low Knife Strike			D + 1
+Shoulder Chop				2
+Double Handed Push			B + 2
+Upwards Uppercut			U + 2
+Uppercut				D + 2
+Reverse Side Kick			3
+Scorpion Sting				B + 3
+Painful Knee				F + 3
+Knee Bruiser				D + 3
+Axe Kick				4
+Trip Attack				B + 4
+Low Kick Attack				D + 4
+White Tiger				1, 1
+Leopard Paws				1, 3
+Kicky Klicky				3, 3
+Tiger Strikes				1, 1, U + 1
+Red Robot				1, 1, 2
+Bad Robo				1, 3, 3
+Dark Shadow				1, 1, 3
+Ambush (While In The Air)		1
+Danger Swipe (While In The Air)		2
+Psycho Spin (While In The Air)		3
+Over Head Air Toss (While In The Air)	4
+Downward Swat (While In The Air)	1, 1
+Tornado Twist (While In The Air)	3, 3
+Take Off (While In The Air)		1, 1, 1
+Tear Down (While In The Air)		1, 1, 2
+Mosoon (While In The Air)		1, 1, 3
+Down Slash (While In The Air)		3, 3, 1
+Flying Human (While In The Air)		3, 3, 2
+Whipcrack (While In The Air)		1, 1, 4
+Air Sails (While In The Air)		3, 3, 3
+Flicker (While In The Air)		3, 3, 4
+Throwdown (While In The Air)		1, 1, 3, 2
+Splashdown (While In The Air)		3, 3, 1, 1
+Sailing Away (While In The Air)		1, 1, 3, 3
+Whiplasher (While In The Air)		1, 1, 3, 4
+Sinking Hero (While In The Air)		3, 3, 1, 4
+Red Metal				1, 1, CS
+
+Pulseblades:
+
+Light Beam Strike			1
+Turning Saber				B + 1
+Crouching Stomach Attack		D + 1
+Face Kut				2
+Junkyard				B + 2
+Double Bladed Uppercut			D + 2
+Cybernetic Stab				3
+Leg Slash				B + 3
+Low Blade Slash				D + 3
+Chest Attack				4
+Twisting Lazers				B + 4
+Crouching Double Blades			D + 4
+Double Trouble				1, 1
+Ketchup's Revenge			3, 1
+Saber Impact				3, B + 2
+Cyber Skillz				1, 1, 3
+Pulse Swings				3, 1, 1
+The Monster				1, 1, 4
+Powerhourse (While In The Air)		1
+Lucky Change (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Face Kicked (While In The Air)		1, 1
+Wind Kick (While In The Air)		3, 3
+Vicious Boots (While In The Air)	1, 1, 1
+Back Flip Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Foot Grab (While In The Air)		1, 1, 4
+Flip Back (While In The Air)		3, 3, 2
+Boot To The Face (While In The Air)	3, 3, 3
+Hell Toss (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Foot Assault (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Elbow Slash				Throw
+Upward Missile				D, B + 2
+Flame On				B, F + 3
+Chest Missile				D, B + 1
+Rocket Punch				F, F + 4
+
+=======================================================
+Stryker
+=======================================================
+
+Hua Chuan:
+
+Thigh Punch				1
+Long Arm Fist				B + 1
+Razor Hand				D + 1
+Fast Hammer Strike			2
+Hammer Fist				D + 2
+Soaring Edge Hand			3
+Low Mule Kick				D + 3
+Foot Plant				4
+Creeping Leg				D + 4
+Face Plant				2, B + 1
+The Chop Shop				2, 2
+Face Chop				B + 1, 3
+Chop Em Up				2, 2, 1
+Blender Fists				2, 2, 2
+Mayhem					2, 2, 3
+Cyclone (While In The Air)		1
+Blue Sky (While In The Air)		2
+Hovering Strike (While In The Air)	3
+Dead Meat (While In The Air)		4
+Jab Me (While In The Air)		1, 1
+Air Waves (While In The Air)		3, 3
+Take It	 (While In The Air)		1, 1, 1
+Red Sky (While In The Air)		1, 1, 2
+Wavelength (While In The Air)		1, 1, 3
+Fallen Hero (While In The Air)		1, 1, 4
+Dirty Fists				2, 2, CS
+
+Night Sticks:
+
+Underarm Twirl				1
+Overhead Smash				B + 1
+Inward Dual Strike			U + 1
+Crossing Low Strike			D + 1
+Head Basher				2
+Razor Swipes				B + 2
+Cutting Uppercut			D + 2
+Crossing Tonfa				3
+Crushing Side Blow			B + 3
+Low Snap Kick				D + 3
+Elbow End				4
+Long Ranged Trip			B + 4
+Defensive Bash				U + 4
+Walking Short Kick			D + 4
+Underarm Slap				1, 1
+Death Twirlz				B + 2, 1
+Keeping Peace				B + 2, B + 1
+head Knocker				B + 2, 2
+Tonfa Steel End				B + 2, 4
+Double Elbow				4, 4
+Dual Tonfa Snuff			1, 1, U + 1
+Wonder Sticks				B + 2, 1, 1
+Twistin Stick To Elbows			B + 2, 4, 4
+Krazy Kop				B + 2, 1, 1, U + 1
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Hostile Approach			Throw
+Low Grenade				D, B + 1
+High Grenade				D, B + 2
+Upward Gun Blast			B, F + 2
+Ground Gun Blast			B, F + 3
+Stun Gun				D, F + 3
+
+=======================================================
+Kabal
+=======================================================
+
+Sun Bin:
+
+Small Frame Strike			1
+Twisting Hammer Fist			B + 1
+Golden Fist				D + 1
+Digging Fingers				2
+Chest Opener				B + 2
+Awkward Uppercut			D + 2
+Large Frame Kick			3
+Small Frame Toe Kick			B + 3
+Aged Heels				U + 3
+Dangerous Foot				D + 3
+Chest Breaker				4
+Dusty Shin Kick				D + 4
+Hidden Hands				1, 1
+Hidden Fists				1, B + 1
+The Art Of War				1, 3
+Gathered Strength			1, B + 3
+Cold Grounds				3, 3
+Road To Victory				1, 1, 1
+Masked Psycho				1, 1, 2
+The Beast				1, 1, U + 3
+Linked Thrust Kick			1, 1, 4
+Overhead Pain				3, 3, 3
+Fallout (While In The Air)              1
+Airborne (While In The Air)             2
+Straight Up (While In The Air)          3
+Over Head Air Toss (While In The Air)   4
+Flying Kick (While In The Air)          1, 1
+Power Slam (While In The Air)           2, 2
+Straight Forward (While In The Air)     3, 3
+Gravity Strike (While In The Air)       1, 1, 1
+Toss Ya! (While In The Air)             1, 1, 2
+Ending It Now (While In The Air)        1, 1, 3
+Grounded (While In The Air)             3, 3, 2
+Air Death (While In The Air)            1, 1, 4
+Air Kick (While In The Air)             3, 3, 3
+Time To Hover (While In The Air)        3, 3, 4
+Stone Death				1, 1, 2, CS
+
+Hookswords:
+
+Chest Strike				1
+Shoulder Rip				B + 1
+Twisting Hook				U + 1
+Low Reverse Blow			D + 1
+Power Hook				2
+Twin Overhead Strike			B + 2
+Chin And Neck Slice			U + 2
+One Hook Sweep				D + 2
+Spinning Sidekick			3
+Leg Tripper				B + 3
+Leg Hooks				U + 3
+Scissors Swipe				D + 3
+Double Axe Kick				4
+Shin Strike				B + 4
+Upward Cross Strike			D + 4
+Razor Moone				1, 1
+Furious Edges				2, 1
+Shady Blows				1, 1, B + 1
+Strength And Balance			1, 1, 2
+Disciple Of Doom			2, 1, 3
+Unholy Strength				1, 1, 4
+Blazing Fury				2, 1, 4
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Vertabreaker				Throw
+racing Flash				B, F + 4
+Plasma Blast				D, F + 1
+Nomad's Touch				D, B + 2
+
+=======================================================
+Dairou
+=======================================================
+
+Mi Zong:
+
+Hook Fist				1
+Off balance Push			B + 1
+Slap Down 				F + 1
+Slide Strike				D + 1
+Straight Up				2
+Pelvis Strike				B + 2
+Big Uppercut				D + 2
+high Kick				3
+Sweeping Trip				B + 3
+Crab Kick				D + 3
+Side Kick				4
+Lefit Kick				B + 4
+Smashing Kick				U + 4
+Step Kick				D + 4
+Good Old 1-2				1, 1
+Zong Gong				1, 2
+Stem Of Death				2, 2
+Triplets				1, 1, 1
+Angry Ape				1, 1, F + 1
+Frying Hands				1, 2, 2
+Zong Rage				1, 1, 4
+iron Broom				2, 2, B + 4
+Zong Tongs				2, 2, U + 4
+Onslaught (While In The Air)		1
+Spin cycle (While In The Air)		2
+Big Blast Combo (While In The Air)	3
+Rain Drop (While In The Air)		4
+Medium Hit (While In The Air)		1, 1
+The Twist (While In The Air)		3, 3
+take Off (While In The Air)		1, 1, 1
+Power Spin (While In The Air)		1, 1, 2
+Twister (While In The Air)		1, 1, 3
+Drop Down (While In The Air)		1, 1, 4
+Fierce Power (While In The Air)		3, 3, 2
+Kick Back (While In The Air)		3, 3, 3
+Bird Toss (While In The Air)		3, 3, 4
+Hurricane (While In The Air)		1, 1, 3, 2
+Gravity Strikes (While In The Air)	1, 1, 3, 3
+Over Head Air Toss (While In The Air)	1, 1, 3, 4
+Feirce Power				1, 2, 2, CS
+
+Autumn Dao:
+
+Gut Slash				1
+Wushu Spin				F + 1
+Thigh Slash				D + 1
+Upward Wind				2
+Upward Launcher				B + 2
+2-Handed Slash				D + 2
+Melon Cutter				3
+Tornado Spin				B + 3
+Crouching Cyclone			F + 3
+Low Ranged Stab				D + 3
+Chest Stab				4
+Blender Slice				F + 4
+Foot Chopper				D + 4
+Tiger Slashes				1, 1
+Beast Power				1, 1, 2
+Blood Letter				1, 1, F + 3
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Arm Snapper				Throw
+Tombstone Drop				F, B, D + 1
+Stealthy Shadow				D, U + 3
+Iron Leg				D, B + 2
+
+=======================================================
+Jarek
+=======================================================
+
+Dragon:
+
+Black Knuckle				1
+Upper Lunge Punch			B + 1
+Ducking Claws				D + 1
+Sun Fish				2
+Dragon Attack				B + 2
+Uppercut				D + 2
+round House Kick			3
+low talon Strike			D + 3
+Front Stomp				4
+Sidestep Claw				B + 4
+Wheel turning Kick			U + 4
+Low Dragon Kick				D + 4
+Juke Fists				1, 1
+Scratcher				1, B + 1
+Dirk Fist				1, 2
+Yielding Fire				1, 3
+Tiger In Cave				4, B + 2
+Ice Pop					1, 1, 2
+3Hit Claws				1, 2, B + 2
+Frozen Wilderness			1, 2, 3
+Star Dragon Kick			1, 2, 4
+Twisting Dragon 			1, 2, U + 4
+Bombardment (While In The Air)		1
+Updraft (While In The Air)		2
+Fire Fly (While In The Air)		3
+Whiplash (While In The Air)		4
+Airmatic Smacks (While In The Air)	1, 1
+Double Air Kicks (While In The Air)	3, 3
+Power Bash (While In The Air)		1, 1, 1
+Backup (While In The Air)		1, 1, 2
+Reset Fists (While In The Air)		1, 1, 3
+X Marks The Spot (While In The Air)	3, 3, 1
+Zero Cool (While In The Air)		1, 1, 4
+Ploted Tree (While In The Air)		3, 3, 2
+Shaddy Heel (While In The Air)		3, 3, 3
+Null G (While In The Air)		3, 3, 4
+Switching Axe 				1, 1, CS
+
+Kick Axe
+
+Overhead Slice				1
+Whirling Blade				B + 1
+Sideways Cut				F + 1
+Power Jab				D + 1
+horizontal Slash			2
+Windy Axe				B + 2
+Slice You In Two			U + 2
+unresting Axe				D + 2
+Stomach Mash				3
+Low Slasher				B + 3
+Pelvis Cut				U + 3
+Foot Slice				D + 3
+Quick Hands				4
+Ankle Slicer				D + 4
+Big Leg					1, 3
+Tricky Heels				4, 4
+Red Dragon Grunt			1, 3, 4
+Shadow Tricks				4, 4, 4
+Bladed Fists				1, 3, 4, 4
+Shadow Evade				1, 3, 4, 4, 4
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Gut Bash				Throw
+Lasso Snatch				D, B + 1
+Tricky Switch				B, F + 2
+Rhino Stomp				U, D + 3
+Flying Legs				B, F + 3
+
+=======================================================
+Darrius
+=======================================================
+
+Goju Ryu:
+
+Shotei					1
+Long Arm Palm				B + 1
+Elbow To The Knee			D + 1
+Wind Cutter				2
+Head Crusher				F + 2
+Monkey Uppercut				D + 2
+Chudan Mae Geri				3
+Ankle Tapper				B + 3
+Defensive Sidekick			U + 3
+Spinning Trip				D + 3
+Scratching Heels			D + 4
+Dual Shotei				1, 1
+No Escape				1, 2
+Onslaught (While In The Air)		1
+Spin cycle (While In The Air)		2
+Big Blast Combo (While In The Air)	3
+Rain Drop (While In The Air)		4
+Medium Hit (While In The Air)		1, 1
+The Twist (While In The Air)		3, 3
+take Off (While In The Air)		1, 1, 1
+Power Spin (While In The Air)		1, 1, 2
+Twister (While In The Air)		1, 1, 3
+Drop Down (While In The Air)		1, 1, 4
+Fierce Power (While In The Air)		3, 3, 2
+Kick Back (While In The Air)		3, 3, 3
+Bird Toss (While In The Air)		3, 3, 4
+Hurricane (While In The Air)		1, 1, 3, 2
+Gravity Strikes (While In The Air)	1, 1, 3, 3
+Over Head Air Toss (While In The Air)	1, 1, 3, 4
+Foot Stomp				4
+Face Plant Stomp			1, 4
+Head Crusher				F + 2,4
+Claw Switch				1, 1, CS
+Vicious Klaw				1, 1, CS, 2
+Victory Is Close			1, 1, CS, 2, 4
+Time Stopper				1, 1, CS, 2, 4, 4
+Monster Kombo				1, 1, CS, 2, 4, 4, 4
+
+Gauntlets:
+
+Talon Face Slash			1
+Chest Slash				B + 1
+Chest Pain Elbow			F + 1
+Leg Poker				D + 1
+Forward Strike				2
+Double Handed Strike			B + 2
+Smooth Uppercut				D + 2
+Upward Hand Blade			3
+Sweeping Gauntlet			B + 3
+Shin Kick				D + 3
+Rib Kick 				4
+Freaky Stun Kick			D + 4
+Power Glove				1, 2
+Kombat Control				4, 4
+Total Destruction			1, 2, 4
+Quickness Legs				4, 4, 4
+Kombat Mash				1, 2, 4, 4
+Sharp Feet 				1, 2, 4, 4, 4
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Chiropractor				Throw
+Tricky Blast				B, F + 2
+Twisty Kick				B, F + 4
+Chest Cruncher				B, F + 1
+Target Practice				D, F + 3
+
+=======================================================
+Reiko
+=======================================================
+
+Ying Yeung:
+
+Snake Fang				1
+Gusting Wing				B + 1
+Low Wrist Chop				D + 1
+Elbow					2
+Chin Breaker				B + 2
+Shoulder Pain				U + 2
+Palm King				D + 2
+Fan Kick				3
+Tiger Trail Kick			D + 3
+Reverse Side Kick			4
+Ankle Chipper				B + 4
+Demon Sweep				D + 4
+Sharp Nails				1, 1
+Fingers To The Eyes			1, 1, 1
+Serpent Takes Prey			1, 1, 2
+Heaven And Hell				1, 1, 3
+Good And Evil				1, 1, 4
+Onslaught (While In The Air)		1
+Spin cycle (While In The Air)		2
+Big Blast Combo (While In The Air)	3
+Rain Drop (While In The Air)		4
+Medium Hit (While In The Air)		1, 1
+The Twist (While In The Air)		3, 3
+take Off (While In The Air)		1, 1, 1
+Power Spin (While In The Air)		1, 1, 2
+Twister (While In The Air)		1, 1, 3
+Drop Down (While In The Air)		1, 1, 4
+Fierce Power (While In The Air)		3, 3, 2
+Kick Back (While In The Air)		3, 3, 3
+Bird Toss (While In The Air)		3, 3, 4
+Hurricane (While In The Air)		1, 1, 3, 2
+Gravity Strikes (While In The Air)	1, 1, 3, 3
+Over Head Air Toss (While In The Air)	1, 1, 3, 4
+False Emporer				1, 1, 3, CS
+
+Crude Hammer:
+
+Face Smasher				1
+Raging Uproar				B + 1
+Blunt End				D + 1
+Pleading Hammer				2
+Stunned					F + 2
+Power Swing				D + 2
+Hammer Stomper				3
+Low Hammer Hit				F + 3
+Shin Destroyer				D + 3
+Power Kick				4
+Krazy Swing				B + 4
+Cheap Shot				D + 4
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Flipping Strike				Throw
+Devastating Flip Kick			D, F + 4
+Assassin Throwing Stars			B, F + 1
+Shadow Grab				D, U + 2
+Charging Pain				B, F + 3
+
+=======================================================
+Fujin
+=======================================================
+
+Lui He:
+
+Fast Hands				1
+Leg Punch				D + 1
+Jolt Of Pain				2
+Uppercut				D + 2
+Stomach Krunch				3
+Fury Leg				B + 3
+Low Kick				D + 3
+Spawn Of Doom				4
+Wake The Dead Leg			D + 4
+Lighting Speed				1, 1
+Psycho Stories				3, 3
+Foot Patrol				4, 4
+Rattle It Up				1, 1, 1
+Play Dead				1, 1, 3
+West Side				1, 1, B + 3
+Blitz Rush				1, 1, 3, 3
+Onslaught (While In The Air)		1
+Spin cycle (While In The Air)		2
+Big Blast Combo (While In The Air)	3
+Rain Drop (While In The Air)		4
+Medium Hit (While In The Air)		1, 1
+The Twist (While In The Air)		3, 3
+take Off (While In The Air)		1, 1, 1
+Power Spin (While In The Air)		1, 1, 2
+Twister (While In The Air)		1, 1, 3
+Drop Down (While In The Air)		1, 1, 4
+Fierce Power (While In The Air)		3, 3, 2
+Kick Back (While In The Air)		3, 3, 3
+Bird Toss (While In The Air)		3, 3, 4
+Hurricane (While In The Air)		1, 1, 3, 2
+Gravity Strikes (While In The Air)	1, 1, 3, 3
+Over Head Air Toss (While In The Air)	1, 1, 3, 4
+Windgod Power				1, 1, 3, CS
+
+Devastator:
+
+Stomach Slash				1
+Ducking Mid Slash			D + 1
+Chest Slash				2
+Devastator				2, 2
+Devastator Pain				U + 2
+Devastator Uppercut			D + 2
+Down The Middle				3
+Leg Trip				B + 3
+Reaching Low Hit			D + 3
+Spinning Point				4
+Ankle Slash				D + 4
+Heavy Slashes				2, 2
+Batters Up				3, 3
+Vicious Circle				2, 2, 1
+3-Hit Chain Of Death			2, 2, 3
+Spinning Death				2, 2, 4
+Fujin's Pain				2, 2, 3, 3
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Windgod Throw				Throw
+Wind Kick (In Air)			D + 3
+Air Funnel				D, U + 2
+Gusting Cyclone				D, B + 4
+Tornado Wind				D, F + 1
+
+=======================================================
+Bo Rai Cho
+=======================================================
+
+Drunken Fist:
+
+Spinning Fist				1
+Twisting Hand				B + 1
+Keg Fist				D + 1
+Straight Chop				2
+Double Punches				U + 2
+Drunken Uppercut			D + 2
+Roundhouse				3
+Sweep Kick				B + 3
+Crippling Punch				D + 3
+Sidekick				4
+Lift Kick				B + 4
+Low Foot Plant				D + 4
+Drunk Fool				1, 1
+Rocks					2, 2
+Tasty Wine				3, 2
+Tip Toe					2, 3
+Tickling Feet				3, 3
+Twist Of Lime				1, 1, 1
+Learning To Stand			2, 2, 1
+Floating On Air				2, 3, 2
+Staggering Strikes			3, 3, 2
+Mind Of Stupor				3, 3, 3
+Sleep Walking				2, 2, 1, 1
+Zero Tolerance				2, 3, 2, 2
+Party Time				2, 2, 1, 1, 1
+Fallout (While In The Air)              1
+Airborne (While In The Air)             2
+Straight Up (While In The Air)          3
+Over Head Air Toss (While In The Air)   4
+Flying Kick (While In The Air)          1, 1
+Power Slam (While In The Air)           2, 2
+Straight Forward (While In The Air)     3, 3
+Gravity Strike (While In The Air)       1, 1, 1
+Toss Ya! (While In The Air)             1, 1, 2
+Ending It Now (While In The Air)        1, 1, 3
+Grounded (While In The Air)             3, 3, 2
+Air Death (While In The Air)            1, 1, 4
+Air Kick (While In The Air)             3, 3, 3
+Time To Hover (While In The Air)        3, 3, 4
+Drunken tick				3, 3, CS
+Phat Dance				3, 3, 2, 2
+
+Jojutsu:
+
+Overhead Strike				1
+Collar Bone Breaker			B + 1
+Pelvis Hit				D + 1
+Two-Handed Thrust			2
+Smacking Branch				B + 2
+Upward Power Stick			D + 2
+2-Hit Strike				3
+Homerun Swing				B + 3
+Power Snap				U + 3
+Low Foot Poke				D + 3
+Under Arm Branch			4
+Foot Poke				B + 4
+Sneaky Branch				U + 4
+Wild Low Swing				D + 4
+Wild Oak				3, 1
+incredibly Delicious			2, 3
+Cheap Stick				2, 3
+Strong Roots				3, 4
+Double Trouble Twig			4, 4
+Dancing Stick				2, 4, 1
+Busted Head				2, 4, B + 1
+Crusty Branch				2, 4, 4
+Popping Wind				3, 4, 4
+Rolling Wind				2, 4, 4, U + 3
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Face To Floor				Throw
+Puke Puddle				B, F + 2
+Monkey Flips				D, B + 1
+Belly Bash				F, F + 4
+Earthquake				D, U + 3
+
+=======================================================
+Mavado
+=======================================================
+
+Long Fist:
+
+Flat Punch				1
+Knee Strike				B + 1
+Double Fist Strike			F + 1
+low Snake Bite				D + 1
+long Straight Punch			2
+Crane Strike				B + 2
+Hammerfist Uppercut			D + 2
+Head Bash				3
+Killer Heel				D + 3
+Cutting Kick				4
+Spinning Crane				B + 4
+Floor Kick				D + 4
+long Fist Rush				1, 1
+Long Fist Pain				1, 1, 1
+Longfist Blast				1, 1, 2
+Long Tiger Claws			1, 1, B + 2
+Under the Mountain			1, 1, 3
+Pole Distance				1, 1, 4
+War Cry (While In The Air)		1
+Smash Down (While In The Air)		2
+Gut Kick (While In The Air)		3
+Flip Throw (While In The Air)		4
+Downward Swat (While In The Air)	1, 1
+Air Sans (While In The Air)		3, 3
+Downward End (While In The Air)		1, 1, 1
+Swipe (While In The Air)		1, 1, 2
+hovering Kick (While In The Air)	1, 1, 3
+Swat Team (While In The Air)		3, 3, 1
+Crashing Wind (While In The Air)	1, 1, 4
+Power Down (While In The Air)		3, 3, 2
+Spinning Wheels (While In The Air)	3, 3, 3
+End Times (While In The Air)		3, 3, 4
+Down Time (While In The Air)		3, 3, 1, 1
+Pinwheel (While In The Air)		1, 1, 3, 3
+Bounceback (While In The Air)		1, 1, 3, 4
+This Is The End (While In The Air)	3, 3, 1, 4
+Red Dragon Hunter			1, 1, CS
+
+Hookswords;
+
+Chest Strike				1
+Shoulder Rip				B + 1
+Twisting Hook				U + 1
+Low Reverse Blow			D + 1
+Power Hook				2
+Twin Overhead Strike			B + 2
+Chin And Neck Slice			U + 2
+One Hook Sweep				D + 2
+Spinning Sidekick			3
+Leg Tripper				B + 3
+Leh hooks				U + 3
+Scissors Swipe				D + 3
+Double Axe Kick				4
+Shin Strike				B + 4
+Upward Cross Strike			D + 4
+Razor Moon				1, 1
+Furious Edges				2, 3
+Shady Blows				1, 1, B + 1
+Disciple Of Doom			2, 1, 3
+Unholy Strangth				1, 1, 4
+Blazing Fury				2, 1, 4
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Rubberband Feet				Throw
+Grapple Hook Strike			F, F + 3
+Change Sides Hook			D, U + 2
+Anger Management			U, U + 4
+Low Grapple Slide			B, F + 4
+Escape Grapple				F, B + 1
+
+=======================================================
+Hotaru
+=======================================================
+
+Pi Gua:
+
+Ridge Hand				1
+Knife Hand Chop				B + 1
+Swing Chop				U + 1
+Low Hand Chop				D + 1
+Spear Hand Strike			2
+Spearhand Sweep				B + 2
+Wing Chop				F + 2
+Sharp Uppercut				D + 2
+Stepping Heel Kick			3
+Low Shin Kick				B + 3
+Pointy Toe Strike			D + 3
+Power Heel Kick				4
+Low Spin Kick				D + 4
+Sliding Hands				2, B + 1
+Chop Chop				2, 2
+Rushing Ridge Hand			2, 2, 1
+Rain From Above				2, 2, U + 1
+Falling Tree				2, 2, 3
+Good Order				2, 2, 4
+Fallout (While In The Air)              1
+Airborne (While In The Air)             2
+Straight Up (While In The Air)          3
+Over Head Air Toss (While In The Air)   4
+Flying Kick (While In The Air)          1, 1
+Power Slam (While In The Air)           2, 2
+Straight Forward (While In The Air)     3, 3
+Gravity Strike (While In The Air)       1, 1, 1
+Toss Ya! (While In The Air)             1, 1, 2
+Ending It Now (While In The Air)        1, 1, 3
+Grounded (While In The Air)             3, 3, 2
+Air Death (While In The Air)            1, 1, 4
+Air Kick (While In The Air)             3, 3, 3
+Time To Hover (While In The Air)        3, 3, 4
+Rolling Heels				2, 2, CS
+
+Naginata:
+
+Face Cutter				1
+Raging Uproar				B + 1
+Blunt End				D + 1
+Stomach Slash				2
+Leg Takeout				B + 2
+Razor Spin				U + 2
+Diamond Cutter				D + 2
+Face Poker				3
+Long Hilt				B + 3
+Hot End					U + 3
+Shin Splitter				D + 3
+Power Kick				4
+Cartwheel Pain				B + 4
+Sharp End				D + 4
+Samurai Spirit				1, 1
+Royal Guard				1, B + 1
+Honor Guard				1, 1, U + 2
+7th Death Dealer			1, 1, 4
+Demonic Warrior				1, 1, B + 4
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Bouncer					Throw
+Grasshopper				F, F + 4
+Fury Punch And Escape			B, F + 1
+Quick Tricks				B, F + 2
+Lava Burst				D, B + 1
+
+=======================================================
+Nightwolf
+=======================================================
+
+Val Tudo:
+
+Gut Punch				1
+Rising Sun				B + 1
+Low Snake Bite				D + 1
+Razor Elbow				2
+Overhead Smash				F + 2
+Hammerfist Uppercut			D + 2
+Lifting Knee				3
+Leg Sweeper				B + 3
+Killer Heel				D + 3
+Quick Roundhouse Kick			4
+Valtudo Striker				B+4
+Sweeping Cyclone			D+4
+Rush Punches				1, 1
+rapid Chain Punches			1, 1, 1
+The Hunted Prey				1, 1, 2
+Bird Of Prey				1, 1, B + 2
+Spirits Of Night			1, 1, 3
+Bombardment (While In The Air)		1
+Updraft (While In The Air)		2
+Fire Fly (While In The Air)		3
+Whiplash (While In The Air)		4
+Airmatic Smacks (While In The Air)	1, 1
+Double Air Kicks (While In The Air)	3, 3
+Power Bash (While In The Air)		1, 1, 1
+Backup (While In The Air)		1, 1, 2
+Reset Fists (While In The Air)		1, 1, 3
+X Marks The Spot (While In The Air)	3, 3, 1
+Zero Cool (While In The Air)		1, 1, 4
+Ploted Tree (While In The Air)		3, 3, 2
+Shaddy Heel (While In The Air)		3, 3, 3
+Null G (While In The Air)		3, 3, 4
+Soaring High				1, 1, 1, CS
+
+Tomahawks:
+
+Sidewinder Slash			1
+Twin Peaks				B + 1
+rising Mountain				U + 1
+Thigh Chop				D + 1
+Mid-Section Strike			2
+Slashing Talons				F + 2
+Stone Hilt Uppercut			D + 2
+Twisting Edge				3
+Shin Buster				B + 3
+Foot Chop				D + 3
+Middle Kick				4
+Stomach Chop				D + 4
+Savage Edge				1, 1
+Hunting For Heads			1, 2
+Grave Digger				1, 3
+Wonder Axe				2, 3
+Razor Foot				1, 4
+Head Chop				1, 2, F + 2
+King Chopper				1, 2, 3
+Drifting Stones				1, 3, 4
+Blessed Shaman				2, 3, 4
+Kracked Axe				1, 2, 3, 4
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Trip Up					Throw
+Spirit Arrow				D, B + 1
+Rhino Charge				F, F + 4
+Lightning From Above			D, U + 1
+Reflector				F, B + 2
+
+=======================================================
+Mokap
+=======================================================
+
+Jeet Kune Do:
+
+Sternum Punch				1
+Hook Uppercut				B + 1
+Backhand Punch				D + 1
+Chest Punch				2
+Overhead Skull Knocker			F + 2
+Tiny Uppercut				D + 2
+Snap Kick				3
+Shin Blaster				B + 3
+Power High Kick				4
+Dragon Sweep				B + 4
+High Hook Kick				U + 4
+Low Chip Kick				D + 4
+Gun Punches				1, 1
+Motion Man				2, B + 1
+Spiritual Warrior			2, 3
+Bruce Is Back				2, 4
+Lightning Legs				3, 4
+Berserker Rage				1, 1, F + 2
+Blurry Vision				1, 1, 3
+Lightning Legs 2			1, 1, 3, 4
+Cyclone (While In The Air)		1
+Blue Sky (While In The Air)		2
+Hovering Strike (While In The Air)	3
+Dead Meat (While In The Air)		4
+Jab Me (While In The Air)		1, 1
+Air Waves (While In The Air)		3, 3
+Take It	 (While In The Air)		1, 1, 1
+Red Sky (While In The Air)		1, 1, 2
+Wavelength (While In The Air)		1, 1, 3
+Fallen Hero (While In The Air)		1, 1, 4
+JKD Special				2, 3, CS
+
+Wing Chun:
+
+Pressure Fist				1
+Long Arm Punch				U + 1
+Ducking Low Punch			D + 1
+Overhead Knock				2
+Sideways Smack				B + 2
+Uppercut				D + 2
+Side Kick				3
+Digging Heels				B + 3
+Train Kick				D + 3
+3-D Slap				U + 4
+Duck Spin Kick				D + 4
+Trapping Hands				1, 1
+Reaver Strikes				1, 2
+Stomach Kick				2, 4
+Lock Down				1, 1, 1
+Stick Fists				1, 1, U + 1
+Junk					1, 2, 4
+Long Legs				1, 2, 4, 3
+Wooden Legs				1, 2, 4, 4
+Whispering Tail				1, 2, 4, 4, 3
+War Cry (While In The Air)		1
+Smash Down (While In The Air)		2
+Gut Kick (While In The Air)		3
+Flip Throw (While In The Air)		4
+Downward Swat (While In The Air)	1, 1
+Air Sans (While In The Air)		3, 3
+Downward End (While In The Air)		1, 1, 1
+Swipe (While In The Air)		1, 1, 2
+Hovering Kick (While In The Air)	1, 1, 3
+Swat Team (While In The Air)		3, 3, 1
+Power Down (While In The Air)		3, 3, 2
+Crashing Wind (While In The Air)	1, 1, 4
+Spinning Wheels (While In The Air)	3, 3, 3
+End Times (While In The Air)		3, 3, 4
+Downtime (While In The Air)		3, 3, 1, 1
+Pinwheel (While In The Air)		1, 1, 3, 3
+Bounceback (While In The Air)		1, 1, 3, 4
+This Is The End (While In The Air)	3, 3, 1, 4
+Chest Kick				4
+
+Special Moves:
+
+Grapple Man				Throw
+Magic Lift				D, B + 2
+Power Hands				B, F + 1
+Swan Kick				F, B + 3
+Lights, Camera, Action			D, B + 1
+
+=======================================================
+Johnny Cage
+=======================================================
+
+Shorin Ryu:
+
+Face Punch				1
+Power Chop				B + 1
+Lower Punch				D + 1
+Power Chest Strike			2
+Hammer Strike				F + 2
+Uppercut				D + 2
+Front Thrust Kick			3
+Shin Thrust				B + 3
+Cutting Kick				U + 3
+Creeping Attack				D + 3
+Flip Kick				U + 4
+Rolling Low Kick			D + 4
+Kobra Strikes				1, 1
+Light Fight				2, 1
+Bone Breaker				1, 2
+Deadly venom				2, 3
+Big Blast				2, 4
+Double Spin				U + 4, U + 4
+Cage Fury				1, 1, 1
+Kobra Hisses				2, 1, 1
+Stuned Blows				2, 1, 2
+Phantom Feet				1, 1, 3
+The Foot Sword				2, 3, 3
+Rising Axe Kick				1, 1, 4
+Somersault Kick				1, 2, U + 4
+Phantom Hits				2, 1, 1, 3
+Red Dragon				1, 1, 3, 3
+Cage Is The Best			2, 1, 1, 4
+Kombo Somersault Kick			2, 1, 2, U + 4
+Flipping Frenzy				1, 2, U + 4, U + 4
+Boxing King				2, 1, 1, 3, 3
+King Of The Ring			2, 1, 2, U + 4, U + 4
+Ambush (While In The Air)		1
+Danger Swipe (While In The Air)		2
+Psycho Spin (While In The Air)		3
+Over Head Air Toss (While In The Air)	4
+Downward Swat (While In The Air)	1, 1
+Tornado Twist (While In The Air)	3, 3
+Take Off (While In The Air)		1, 1, 1
+Tear Down (While In The Air)		1, 1, 2
+Mosoon (While In The Air)		1, 1, 3
+Down Slash (While In The Air)		3, 3, 1
+Flying Human (While In The Air)		3, 3, 2
+Whipcrack (While In The Air)		1, 1, 4
+Air Sails (While In The Air)		3, 3, 3
+Flicker (While In The Air)		3, 3, 4
+Throwdown (While In The Air)		1, 1, 3, 2
+Splashdown (While In The Air)		3, 3, 1, 1
+Sailing Away (While In The Air)		1, 1, 3, 3
+Whiplasher (While In The Air)		1, 1, 3, 4
+Sinking Hero (While In The Air)		3, 3, 1, 4
+Busted Nose				1, 1, CS
+
+Nunchaku:
+
+Quick Overhead Strike			1
+Skull Basher				B + 1
+Twisting Chako				D + 1
+Side Swing				2
+Underarm Rising Power			B + 2
+Killing Swing				D + 2
+Circular Swing				3
+Shin Bash				B + 3
+Double Blunt				F + 3
+Ducking Wooden Strike			D + 3
+Power Kick				4
+Spinning Hook Kick			B + 4
+Foot Smack				D + 4
+Spinster				1, 1
+Swing Kick				3, 4
+Cyclone Twister				1, 1, 1
+Blurry Hits				1, 1, 2
+Chako Frenzy				1, 1, 3
+Wooden Leg				1, 1, 4
+Nitro Blister				1, 1, 1, 1
+Frenzy And Kick 			1, 1, 3, 4
+Powerhourse (While In The Air)		1
+Lucky Change (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Face Kicked (While In The Air)		1, 1
+Wind Kick (While In The Air)		3, 3
+Vicious Boots (While In The Air)	1, 1, 1
+Back Flip Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Foot Grab (While In The Air)		1, 1, 4
+Flip Back (While In The Air)		3, 3, 2
+Boot To The Face (While In The Air)	3, 3, 3
+Hell Toss (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Foot Assault (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Cage Close Up				Throw
+Sliding uppercut			B, F + 3
+Plasmic	Fireball			D, B + 1
+Shadow Kick				B, F + 4
+
+=======================================================
+Kano
+=======================================================
+
+Xing Yi:
+
+Straight Punch				1
+Power Fist				B + 1
+Low Palm Strike				D + 1
+Chop Strike				2
+Steel Fingers				F + 2
+Eagle Strike				D + 2
+Step Snap Kick				3
+Low Foot Strike				D + 3
+Rising Knee				4
+Hopping Back Kick			B + 4
+Lifting high Kick			U + 4
+Toe Strike				D + 4
+Zing Punches				1, 1
+Rebel Chick				2, B + 1
+Redzone					4, 2
+Casualty				4, 3
+Twilight				1, 1, 2
+Dangerous				1, 1, 4
+Wrath Of Kira				1, 1, B + 4
+Fiery Foot				1, 1, U + 4
+Suffering				1, 1, 3, B + 1
+Assault And Buttery			1, 1, 4, 2
+Seek And Destroy			1, 1, 4, 3
+Bombardment (While In The Air)		1
+Updraft (While In The Air)		2
+Fire Fly (While In The Air)		3
+Whiplash (While In The Air)		4
+Airmatic Smacks (While In The Air)	1, 1
+Double Air Kicks (While In The Air)	3, 3
+Power Bash (While In The Air)		1, 1, 1
+Backup (While In The Air)		1, 1, 2
+Reset Fists (While In The Air)		1, 1, 3
+X Marks The Spot (While In The Air)	3, 3, 1
+Zero Cool (While In The Air)		1, 1, 4
+Ploted Tree (While In The Air)		3, 3, 2
+Shaddy Heel (While In The Air)		3, 3, 3
+Null G (While In The Air)		3, 3, 4
+Tough Boss				1, 1, 2, CS
+
+Butterfly Knives:
+
+Forward Chest Slashes			1
+Downward Circling Sword			B + 1
+Low Upward Knife			D + 1
+Rising Dragon Teeth			2
+Upward Circling Teeth			B + 2
+Uppercut				D + 2
+Frontal Stab				3
+Tippy Toe Stab				U + 3
+Dragon Push				F + 3
+Low Tippy Kick				D + 3
+Front Sidekick				4
+Spinning Dragon Kick			B + 4
+Low Spin Kick				D + 4
+Dragon Tooth				1, 3
+Snap Dragon Kicks			4, 4
+Black Dragon Tail			4, 4, 4
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+Butterfly Cut				1, F + 3
+Fire Twister				B + 1, B + 2
+
+Special Moves:
+
+Mule Back Kick				Throw
+Inner Rage				U, U + 1
+Fist Of Power				F, F + 3
+Cannon Ball				B, F + 4
+Eye Laser				F, F + 2
+
+=======================================================
+Jax
+=======================================================
+
+Muay Thai:
+
+Quick Hook Punch			1
+Upward Elbow				D + 1
+Turning Hand				2
+Uppercut				D + 2
+Spinning Sidekick			3
+Knee Striker				B + 3
+Ducking Cross				D + 3
+Thrusting Foot				4
+Spinning Dragon				B + 4
+Throat Kick				U + 4
+Clean Low Hit				D + 4
+Ring King				1, 1
+Fury Elbows				D + 1, D + 1
+Teeth Smasher				2, 2
+Kick Boxing Combo			1, 3
+Blurry Boot				2, 4
+3-Hit Shocker				1, 1, 1
+Spin Fists				1, 1, 2
+Hard Power				1, 1, 4
+Heavy Kombatt				1, 1, 2, 2
+Unleashed Pain				1, 1, 2, 4
+Fallout (While In The Air)              1
+Airborne (While In The Air)             2
+Straight Up (While In The Air)          3
+Over Head Air Toss (While In The Air)   4
+Flying Kick (While In The Air)          1, 1
+Power Slam (While In The Air)           2, 2
+Straight Forward (While In The Air)     3, 3
+Gravity Strike (While In The Air)       1, 1, 1
+Toss Ya! (While In The Air)             1, 1, 2
+Ending It Now (While In The Air)        1, 1, 3
+Grounded (While In The Air)             3, 3, 2
+Air Death (While In The Air)            1, 1, 4
+Air Kick (While In The Air)             3, 3, 3
+Time To Hover (While In The Air)        3, 3, 4
+Sneak Attack				1, 1, CS
+
+Tonfa:
+
+Night Stick Lite			1
+Watch Out				B + 1
+Face Bash				U + 1
+Tonfa Low Strike			D + 1
+Twirl It Around				2
+Fancy Spins				B + 2
+Uppercutting Tonfa			D + 2
+Face Krack				3
+Head Hit				B + 3
+Low Kick				D + 3
+Medium Kick				4
+Sneaky					B + 4
+Dodge Attack				U + 4
+Ankle Kick				D + 4
+Turning It Up				1, 1
+Watchmen				B + 2, 1
+Watching You				B + 2, B + 1
+Pain With Sticks			B + 2, 2
+Beat Em Up				B + 2, 4
+Darkness Sticks				4, 4
+Sink Hole				1, 1, U + 1
+Crowd Kontrol				B + 2, 1, 1
+Darkness Pain				B + 2, 4, 4
+Red Lights				B + 2, 1, 1, U + 1
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+Riot Elbows				4, 4
+
+Special Moves:
+
+Shocking Blows				Throw
+Pistion Punches				D, F + 1
+Ground Pound				D, U + 3
+Machine Gun				B, F + 4
+
+=======================================================
+Kai
+=======================================================
+
+Moi Fah:
+
+Stone Hand				1
+Angry Wind				B + 1
+Ducking Knife Thrust			D + 1
+Stone Reach				2
+Popup Palm				B + 2
+Blackout				F + 2
+Rising Uppercut				D + 2
+Snap Kick				3
+Crescent Kick				B + 3
+Pecking Toe				F + 3
+Turning Low Kick			D + 3
+Stomach Smasher				4
+Horse Shoe				D + 4
+Long Stone Reach			1, 1
+Double Tap Kick				3, 3
+Low Fury				F + 3, 3
+Fingers Of Death			1, 1, 1
+Sharp As Hell				1, 1, B + 1
+Popup Slice				1, 1, B + 2
+Just Feel It				1, 1, 3
+Krazy Blury				1, 1, 4
+Pain Taps				3, 3, 3
+Kombo Power				1, 1, 3, 3
+Jungle Warrior				1, 1, 3, 3, 3
+Cyclone (While In The Air)		1
+Blue Sky (While In The Air)		2
+Hovering Strike (While In The Air)	3
+Dead Meat (While In The Air)		4
+Jab Me (While In The Air)		1, 1
+Air Waves (While In The Air)		3, 3
+Take It	 (While In The Air)		1, 1, 1
+Red Sky (While In The Air)		1, 1, 2
+Wavelength (While In The Air)		1, 1, 3
+Fallen Hero (While In The Air)		1, 1, 4
+Jungle Tactics				1, 1, CS
+
+Spiked Club:
+
+Stomach Smack				1
+Leg Trip				B + 1
+Ducking Shin Slash			D + 1
+Skull Bash				2
+2-Handed Uppercut			D + 2
+Upward Swing				3
+Ape Swing				F + 3
+Low Swipe Attack			D + 3
+Quick Power Kick			4
+Leg Take Out				B + 4
+Foot Poke				D + 4
+Double Rib Hits				1, 1
+Caveman					1, 1, 2
+Strike Out				1, 1, 3
+The Zone				1, 1, 4
+Powerhourse (While In The Air)		1
+Lucky Change (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Face Kicked (While In The Air)		1, 1
+Wind Kick (While In The Air)		3, 3
+Vicious Boots (While In The Air)	1, 1, 1
+Back Flip Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Foot Grab (While In The Air)		1, 1, 4
+Flip Back (While In The Air)		3, 3, 2
+Boot To The Face (While In The Air)	3, 3, 3
+Hell Toss (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Foot Assault (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Up And Over Kick			Throw
+Fire From Above				D, U + 2
+Downward Fire Blast			U, D + 3
+Renegade Kick				D, B + 4
+Downward Fire Blast (In Air)		U, D + 3
+Rising Heel				D, F + 1
+
+=======================================================
+Kenshi
+=======================================================
+
+Tai Chi:
+
+Mid Palm Strike				1
+Rising Spade Hand			B + 1
+Pushing Hands				F + 1
+Fist Strike				D + 1
+Chopping Strike				2
+Charging Wrist				B + 2
+Power Uppercut				D + 2
+Gut Slap				3
+Low Kick				D + 3
+Spinning Roundhouse			4
+Standing Shin Kick			B + 4
+Low Kick Strike				D + 4
+Furious Hands				2, 2
+Chained Strikes				3, 3
+Listen To The Sound			2, 2, 2
+Feel The Power				3, 3, 1
+Rising Spade				3, 3, B + 1
+Strong Rhino				3, 3, 2
+Power Wrist				3, 3, B + 2
+Round Up				2, 2, 4
+Cyclone (While In The Air)		1
+Blue Sky (While In The Air)		2
+Hovering Strike (While In The Air)	3
+Dead Meat (While In The Air)		4
+Jab Me (While In The Air)		1, 1
+Air Waves (While In The Air)		3, 3
+Take It	 (While In The Air)		1, 1, 1
+Red Sky (While In The Air)		1, 1, 2
+Wavelength (While In The Air)		1, 1, 3
+Fallen Hero (While In The Air)		1, 1, 4
+Blind Lunatic				2, 2, 2, CS
+
+Katana:
+
+Mid Slash				1
+Ducking Blade				D + 1
+Body Slash				2
+Pop Rock				U + 2
+Uppercut Blade				D + 2
+Turning Blade				3
+Low Blade Swipe				B + 3
+Low Attack				D + 3
+Hard Pointy Blade			4
+Low Ankle Attack			D + 4
+Fast Head Blows				2, 2
+Nightmare Slashes			3, 3
+Krazy Hype				2, 2, 1
+Knee shaker				2, 2, 3
+Tumble Kombo				2, 2, 4
+Dark Vision				2, 2, 3, 3
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Face Flat				Throw
+Telekenetic Slam			B, D, B + 1
+Telekenetic Toss			D, B + 4
+Telekenetic Push			F, F + 2
+Tele-Flurry				B, F + 3
+Mind Warp				D, B + 3
+
+=======================================================
+Shujinko
+=======================================================
+
+Mantis:
+
+Sideways Poke				1
+Low Mantis Claw				D + 1
+Leaning Fingers				2
+Mantis Takes Prey			B + 2
+stone Colimn				U + 2
+Mantacut				D + 2
+Chest Kick				3
+Sting Tap				B + 3
+Forceful Ball Kick			U + 3
+Low Kick				D + 3
+Leaping Mantis Leg			4
+Long Sweep Kick				B + 4
+Upward Leg				U + 4
+Hidden Claws				F + 4
+Creeping Mantis				D + 4
+Deadly Bent Wrists			1, 1
+Stepping Mantis				F + 4, 1
+Looking For Prey			1, 1, 1
+Metal Mantis				1, 1, 2
+Dead Center Kick			1, 1, 3
+Stunning Prey				1, 1, U + 3
+Hunting For Prey			F + 4, 1, 1
+Center Strikes				F + 4, 1, 3
+Clenching Stunning Prey			F + 4, 1, U + 3
+Old Timer				1, 1, 2, B + 2
+Scratch It Up				1, 1, 2, 4
+Old School Man				F + 4, 1, 2, B + 2
+Diving Eagle				F + 4, 1, 2, 4
+Fallout (While In The Air)              1
+Airborne (While In The Air)             2
+Straight Up (While In The Air)          3
+Over Head Air Toss (While In The Air)   4
+Flying Kick (While In The Air)          1, 1
+Power Slam (While In The Air)           2, 2
+Straight Forward (While In The Air)     3, 3
+Gravity Strike (While In The Air)       1, 1, 1
+Toss Ya! (While In The Air)             1, 1, 2
+Ending It Now (While In The Air)        1, 1, 3
+Grounded (While In The Air)             3, 3, 2
+Air Death (While In The Air)            1, 1, 4
+Air Kick (While In The Air)             3, 3, 3
+Time To Hover (While In The Air)        3, 3, 4
+Slicer Time				1, 1, U + 3, CS
+
+Dan Tien Dao:
+
+Mountain Wind				1
+Leg Tanker				B + 1
+Crouching Low Slice			D + 1
+Melon Slicer				2
+Upward Moon Slice			U + 2
+Uppercut				D + 2
+Quick Cut				3
+Leg Trip				B + 3
+Shin Cutter				D + 3
+Turning Side Kick			4
+Ankle Slice				D + 4
+Double Throat Cutter			1, 1
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Knee Popper				Throw
+Throw Spear				B, F + 1
+Icy Breeze				D, F + 1
+Flaming Fish				D, F + 2
+Flying Jinko				F, F + 2
+Flip Scissor Kick			D, B + 3
+Slide					F, B + 3
+Opponent Slam				B, D, B + 4
+Bike Kicks				F, F + 4
+
+=======================================================
+Hsu Hao
+=======================================================
+
+Sumo:
+
+Sumo Clap				1
+Power Lift				B + 1
+Low Strike				D + 1
+Rib Slap				2
+Sumo Push				F + 2
+Uppercut				D + 2
+Cheap Shot				3
+Sweeping Kick				B + 3
+Crab Kick				D + 3
+Headbutt				4
+Side Chop				B + 4
+Low Heel Spin				D + 4
+Ring Out				1, 2
+Super Chops				2, 2
+Rib Chops				B + 4, 2
+Lets Play				1, 2, 2
+Champion Sumo				1, 2, 3
+Steel Headbutt				1, 2, 4
+Winner Kombo				B + 4, 2, 2
+Fallout (While In The Air)              1
+Airborne (While In The Air)             2
+Straight Up (While In The Air)          3
+Over Head Air Toss (While In The Air)   4
+Flying Kick (While In The Air)          1, 1
+Power Slam (While In The Air)           2, 2
+Straight Forward (While In The Air)     3, 3
+Gravity Strike (While In The Air)       1, 1, 1
+Toss Ya! (While In The Air)             1, 1, 2
+Ending It Now (While In The Air)        1, 1, 3
+Grounded (While In The Air)             3, 3, 2
+Air Death (While In The Air)            1, 1, 4
+Air Kick (While In The Air)             3, 3, 3
+Time To Hover (While In The Air)        3, 3, 4
+Champion Blades				1, 2, CS
+
+Sunmoon Blades:
+
+Forward Chest Slashes			1
+Downward Circling Slashes		B + 1
+Low Upward Knife			D + 1
+Rising Moon Teeth			2
+Upward Circling Earth			B + 2
+Moon Uppercut				D + 2
+Frontal Stab				3
+Tippy Toe Stab				U + 3
+Dragon Push				F + 3
+Low Tippy Kick				D + 3
+Front Sidekick				4
+Spinning Dragon Kick			B + 4
+Low Spin Kick				D + 4
+Planet Earth				B + 1, B + 2
+Event Of Pain				B + 1, F + 2
+Moon Tooth				1, 3
+Snap Dragon Kicks			4, 4
+Black Dragon Tail			4, 4, 4
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+Dark Moons				1, F + 3
+Strong Man				B + 1, B + 2
+
+Special Moves:
+
+Strong Grab				Throw
+Thunder Klap				B, D + 3
+Boot Kamp				D, U + 4
+Charge Up				D, U + 3
+Bounching Death				D, F + 1
+Krystal Lazer				D, B + 2
+
+=======================================================
+Kobra
+=======================================================
+
+Kickboxing:
+
+Iron Fist				1
+Ducking Quick Jab			D + 1
+Face Jab				2
+Cross Attack				B + 2
+Chin Lifter				U + 2
+Dual Fist Uppercut			D + 2
+Head Kick				3
+Thigh Kick				B + 3
+Grounded Kick				D + 3
+Heel Kick				4
+Hooking Sweep				B + 4
+Shin Stomp				D + 4
+Ring Out				1, 2
+Speedy Strikes				1, B + 2
+The Champ				1, U + 2
+Bashing Hands				2, 2
+Powerslam				1, 3
+High Thai Kick				B + 3, 3
+Killer Legs				1, 4
+razy Fists				1, 2, 2
+Uber Punches				2, 2, 2
+Strong Punches				2, 2, B + 2
+Lightnin Fast				2, 2, 3
+Cyclone (While In The Air)		1
+Blue Sky (While In The Air)		2
+Hovering Strike (While In The Air)	3
+Dead Meat (While In The Air)		4
+Jab Me (While In The Air)		1, 1
+Air Waves (While In The Air)		3, 3
+Take It	 (While In The Air)		1, 1, 1
+Red Sky (While In The Air)		1, 1, 2
+Wavelength (While In The Air)		1, 1, 3
+Fallen Hero (While In The Air)		1, 1, 4
+Evil Earth Warrior			1, 3, CS
+
+Machete:
+
+Chest Slash				1
+Head Slicer				B + 1
+Eye Poke				F + 1
+Low Thigh Slash				D + 1
+Down The Middle				2
+Dancing Doom				B + 2
+Assault					U + 2
+Rising Uplift				D + 2
+Reverse Blade				3
+Low Slash				B + 3
+Neck Thruster				U + 3
+Target Practice				F + 3
+Low Quick Jab				D + 3
+Pelvis Kick				4
+Twisting Gut Cut			U + 4
+Mid-Section Pain			D + 4
+Twin Swipes				1, 1
+Fast Enough				F + 1, 1
+The X Slash				2, 2
+War Kick				3, 4
+Fast Hands				F + 1, 1, 1
+King Thunder				3, 4, 2
+Extreme Fists				F + 1, 1, 1, 1
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+One, Two, Three				Throw
+Windmill Kick				D, B + 4
+Burning Fist				D, F + 2
+Tele-Punch				D, B + 2
+Chi-Blast				D, F + 1
+Crouching Chi-Blast			D, B + 1
+
+=======================================================
+Taven
+=======================================================
+
+Gold Dragon:
+
+Face Hit				1
+Chin Elbow				B + 1
+Thigh Punch				D + 1
+Crushing Elbow				2
+Head Crusher				B + 2
+Hammer Uppercut				D + 2
+Turning Kick				3
+Forceful Leg				B + 3
+Back Sweep				D + 3
+Long Range Ankle Strike			4
+Spinning Dragon				B + 4
+Front Sweep				D + 4
+Twisting Elbow				1, 1
+2-Hit Pain				2, 3
+Helmet Punch				1, 1, 1
+Face Blaster				1, 1, B + 1
+Funky Spins				1, 1, 2
+Power Foot				1, 1, 3
+Ambush (While In The Air)		1
+Danger Swipe (While In The Air)		2
+Psycho Spin (While In The Air)		3
+Over Head Air Toss (While In The Air)	4
+Downward Swat (While In The Air)	1, 1
+Tornado Twist (While In The Air)	3, 3
+Take Off (While In The Air)		1, 1, 1
+Tear Down (While In The Air)		1, 1, 2
+Mosoon (While In The Air)		1, 1, 3
+Down Slash (While In The Air)		3, 3, 1
+Flying Human (While In The Air)		3, 3, 2
+Whipcrack (While In The Air)		1, 1, 4
+Air Sails (While In The Air)		3, 3, 3
+Flicker (While In The Air)		3, 3, 4
+Throwdown (While In The Air)		1, 1, 3, 2
+Splashdown (While In The Air)		3, 3, 1, 1
+Sailing Away (While In The Air)		1, 1, 3, 3
+Whiplasher (While In The Air)		1, 1, 3, 4
+Sinking Hero (While In The Air)		3, 3, 1, 4
+Dragonkin				1, 1, 2, CS
+
+Drakesword:
+
+Dragon Slice				1
+Fast Head Blow				B + 1
+Thigh Slash				D + 1
+Upward Swing				2
+Swing Blast				B + 2
+2-Handed Uppercut			D + 2
+Overhead Slash				3
+Leg Trip				B + 3
+Foot Chopper				D + 3
+Power Kick				4
+Toe Hook				D + 4
+Does It Hurt				1, 1
+Chop It Up				2, 2
+Head Blades				2, 2, 1
+Angry Edge				1, 1, 3
+Drake Power				1, 1, 4
+Furious Pain				2, 2, 1, 1
+Powerhourse (While In The Air)		1
+Lucky Change (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Face Kicked (While In The Air)		1, 1
+Wind Kick (While In The Air)		3, 3
+Vicious Boots (While In The Air)	1, 1, 1
+Back Flip Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Foot Grab (While In The Air)		1, 1, 4
+Flip Back (While In The Air)		3, 3, 2
+Boot To The Face (While In The Air)	3, 3, 3
+Hell Toss (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Foot Assault (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Gold Dragon Lock			Throw
+Inner Fire				D, F + 1
+Ring Of Hatred				U, D + 3
+Godly Charge				F, F + 2
+Speed Of Light				D, B + 1
+
+=======================================================
+Liu Kang
+=======================================================
+
+Jun Fan:
+
+Sternum Punch				1
+Hook Upercut				B + 1
+Groin Punch				D + 1
+Chest Punch				2
+Overhead Skull Knocker			F + 2
+Crouching Cross				D + 2
+Snap Kick				3
+Shin Blaster				B + 3
+Knee Hammer				D + 3
+Power High Kick				4
+Dragon Sweep				B + 4
+High Hook Kick				U + 4
+Shin Breaker				D + 4
+Gun Punches				1, 1
+Ghostly Strikes				2, B + 1
+Spiritual Warrior			2, 3
+Revenge Of Kang				2, 4
+Lightning Legs				3, 4
+Berserker Rage				1, 1, F + 2
+Blurry Vision				1, 1, 3
+Lightning Feet				1, 1, 3, 4
+Cyclone (While In The Air)		1
+Blue Sky (While In The Air)		2
+Hovering Strike (While In The Air)	3
+Dead Meat (While In The Air)		4
+Jab Me (While In The Air)		1, 1
+Air Waves (While In The Air)		3, 3
+Take It	 (While In The Air)		1, 1, 1
+Red Sky (While In The Air)		1, 1, 2
+Wavelength (While In The Air)		1, 1, 3
+Fallen Hero (While In The Air)		1, 1, 4
+Feet Strike				3, 4
+Champion				1, 1, 3, 4, CS
+
+Nunchaku:
+
+Quick Overhead Strike			1
+Skull Basher				B + 1
+Twisting Chako				D + 1
+Side Swing				2
+Underarm Rising Power			B + 2
+Killer Swing				D + 2
+Circular Swing				3
+Shin Bash				B + 3
+Double Blunt				F + 3
+Ducking Wooden Strike			D + 3
+Power Kick				4
+Spinning Hook Kick			B + 4
+Foot Smack				D + 4
+Spinster				1, 1 
+Swing Kick				3, 4
+Cyclone Twister				1, 1, 1
+Blurry Hits				1, 1, 2
+Chako Frenzy				1, 1, 3
+Wooden Leg				1, 1, 4
+Nitro Blister				1, 1, 1, 1
+Frenzy And Kick				1, 1, 3, 4
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+Crazy Nunchaku Attack			B + 3
+
+Special Moves:
+
+Up And Away				Throw
+High Dragon Fire			F, F + 2
+Low Dragon Fire				F, F + 1
+Flying Kick				F, F + 4
+Flying Bicycle Kick			D, F + 3
+
+=======================================================
+Kung Lao
+=======================================================
+
+Shaolin Fist:
+
+Center Punch				1
+Stone Cracker				F + 1
+Ducking Iron Fist			D + 1
+Shaolin Parry				2
+Upward Temple				B + 2
+Cement Blaster				F + 2
+Axe Handle				D + 2
+Stomach Pain				3
+Low Feet Foot				D + 3
+Turning Kick				4
+Steel Leg Trip				B + 4
+Spinning Low Kick			D + 4
+Open Air				1, 1
+Combo Kicks				3, 3
+Strong Horse				1, 1, 1
+Sacred Style				1, 1, B + 2
+Mid-Section Blows			1, 1, 3
+Punishment				1, 1, 4
+Gifted Warrior				1, 1, 3, 3
+Golden Power				1, 1, 3, 4
+Cyclone (While In The Air)		1
+Blue Sky (While In The Air)		2
+Hovering Strike (While In The Air)	3
+Dead Meat (While In The Air)		4
+Jab Me (While In The Air)		1, 1
+Air Waves (While In The Air)		3, 3
+Take It	 (While In The Air)		1, 1, 1
+Red Sky (While In The Air)		1, 1, 2
+Wavelength (While In The Air)		1, 1, 3
+Fallen Hero (While In The Air)		1, 1, 4
+Feet Strike				3, 4
+Strong Monkey				1, 1, 3, CS
+
+Broadsword:
+
+Quick Cross				1
+Dao Spin				F + 1
+Thigh Slash				D + 1
+Upward Wind				2
+Upward Launcher				B + 2
+Double Handed Slash			D + 2
+Melon Cutter				3
+Tornado Cutter				B + 3
+Crouching Cyclone			F + 3
+Long Ranged Stab			D + 3
+Chest Stab				4
+Slice And Dice				F + 4
+Foot Chopper				D + 4
+Whirl Blades				1, 1
+Haze Blades				1, 1, 2
+Tiger Slashes				1, 1, F + 3
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Chest Kicks				Throw
+Whirlwind Kicks				D, B + 3
+Hat Throw				B, F + 1
+Wind Teleport				D, U + 2
+Wind Teleport Hand Bash			D, U + 2, 1
+Wind Teleport Fist Smash		D, U + 2, 2
+Wind Teleport Face Kick			D, U + 2, 3
+Wind Teleport Kick			D, U + 2, 4
+Air Dive Kick (In Air)			D + 3
+
+=======================================================
+Shang Tsung
+=======================================================
+
+Snake:
+
+Bai She Tu Xin				1
+Low Palm				D + 1
+Viper Strike				2
+Gut Buster				B + 2
+Snake Bite				U + 2
+Twin Fang Uppercut			D + 2
+High Snapkick				3
+Kobra Venom				B + 3
+Low Cobra Kick				D + 3
+Mid Kick				4
+Eagle Pecking				B + 4
+Quick Low Kick				D + 4
+Teeth Strike				1, 1
+Low Bite				2, B + 4
+Thrusting Fang				1, 1, 1
+Crossing Fangs				1, 1, 2
+Snake Whipping Tail			1, 1, 3
+Sunken Fangs				1, 1, B + 3
+Cross Fang				1, 1, 2, B + 1
+Twisting Python				1, 1, 2, 2
+Spiritual Snake Tail			1, 1, 2, 3
+Blood Point				1, 1, 2, B + 4
+Crushing Palm				1, 1, 2, 2, B + 2
+Bombardment (While In The Air)		1
+Updraft (While In The Air)		2
+Fire Fly (While In The Air)		3
+Whiplash (While In The Air)		4
+Airmatic Smacks (While In The Air)	1, 1
+Double Air Kicks (While In The Air)	3, 3
+Power Bash (While In The Air)		1, 1, 1
+Backup (While In The Air)		1, 1, 2
+Reset Fists (While In The Air)		1, 1, 3
+X Marks The Spot (While In The Air)	3, 3, 1
+Zero Cool (While In The Air)		1, 1, 4
+Ploted Tree (While In The Air)		3, 3, 2
+Shaddy Heel (While In The Air)		3, 3, 3
+Null G (While In The Air)		3, 3, 4
+Slithery Master				1, 1, 2, CS
+Posion Fangz				2, 2
+Dangerous Venom				2, 3
+Tricky Pokes				1, 1, 2, B + 4
+
+Straight Sword:
+
+Gut Swipe				1
+Dodge This				B + 1
+Low Slash				D + 1
+Face Smacker				2
+Face Kut				U + 2
+Middle Slash				F + 2
+2-Handed Uppercut			D + 2
+Middle Chest Slash			3
+Befallen Edge				B + 3
+Foot Stab				D + 3
+Head Poker				4
+Twisting Death				B + 4
+Mule Slash				D + 4
+Spin Factor				1, 1
+Twisting Blender			B + 4, F + 4
+Gravity Killer				1, 1, 2
+Destruction Blows			1, 1, 3
+Dancing Swords				1, 1, 4
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Body Stomper				Throw
+Close Fire Ring				F, B + 1
+Outter Fire Ring			B, F + 1
+Soul Steal				D, B + 3
+Forward Fireball			D, B + 2
+Mysterious Magic			D, B + 4
+
+=======================================================
+Quan Chi
+=======================================================
+
+Escrima:
+
+Bai She Tu Xin				1
+Cross Fang				B + 1
+Low Palm				D + 1
+Backfist Strike				2
+Qing She Chu Dong			B + 2
+Face Crunch				F + 2
+Viper Uppercut				D + 2
+Snap Punch				3
+Knee Pain				B + 3
+Swoosh					F + 3
+Low Cobra Kick				D + 3
+Mid Knee				4
+Quick Low Kick				D + 4
+Panic Attack				1, 1
+Sudden Danger				3, 1
+Spiritual Snake				2, 3
+Red Zone				3, 4
+Double Knees				4, 4
+Snap Attacks				1, 1, 3
+Forest Protector			3, 1, 1
+Fury Fists				2, 3, 1
+Up And Away				3, 1, B + 2
+Tricky Dog				2, 3, 4
+HOt Zone				3, 4, 4
+Truck Stopper				2, 3, 1, 1
+Southern Beat				2, 3, 1, B + 2
+Death Clencher				3, 1, 1, 3
+Fierce Snake				2, 3, 1, F + 4
+Too Fast				2, 3, 4, 4
+Death Bed				2, 3, 1, 1, 3
+Bombardment (While In The Air)		1
+Updraft (While In The Air)		2
+Fire Fly (While In The Air)		3
+Whiplash (While In The Air)		4
+Airmatic Smacks (While In The Air)	1, 1
+Double Air Kicks (While In The Air)	3, 3
+Power Bash (While In The Air)		1, 1, 1
+Backup (While In The Air)		1, 1, 2
+Reset Fists (While In The Air)		1, 1, 3
+X Marks The Spot (While In The Air)	3, 3, 1
+Zero Cool (While In The Air)		1, 1, 4
+Ploted Tree (While In The Air)		3, 3, 2
+Shaddy Heel (While In The Air)		3, 3, 3
+Null G (While In The Air)		3, 3, 4
+Furious Blade Combo			2, 3, 4, 4, CS
+
+Broadswords:
+
+Upward Head Slash			1
+Leg Slice				D + 1
+Throat Poke				2
+Upward Sharp Blade			B + 2
+Uppercut				D + 2
+Two Hit Strike				3
+Turning Shoulder Slice			B + 3
+Crunchy Pelvis				D + 3
+Torse Attack				4
+Spinning Razor Blades			F + 4
+Shu Attack				D + 4
+Wicked Sting				1, 1
+Ancient Death				D + 1, 3
+Tricky Fury				2, 3
+Torso Attacks				2, 4
+Doom's Edge				3, 4
+Supper Sonic				1, 1, 4
+Sidewinder tactics			2, 3, B + 3
+Evil Stench				1, 1, F + 4
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Brutal Face Bash			Throw
+Magnet Force				D, B + 2
+Skull Toss				D, B + 1
+Body Stomp				D, B + 3
+Heel Slide				B, D + 4
+
+=======================================================
+Shinnok
+=======================================================
+
+Kuo Shou:
+
+Stomach Smash				1
+Razor Elbow				B + 1
+Lower Claw Strike			D + 1
+Chin Lifter				2
+Evil Uppercut				B + 2
+Volley Up				D + 2
+Elbow Grease				3
+Steel Teeth Strike			B + 3
+Creeping Kick				D + 3
+Mid-Section Kick			4
+Steel Toe Kick				B + 4
+Heel Tapper				D + 4
+Hurtful Touch				2, 1
+Wasteland				2, 4
+Turning Heels				4, 4
+Elder God Words				2, 4, 4
+Bombardment (While In The Air)		1
+Updraft (While In The Air)		2
+Fire Fly (While In The Air)		3
+Whiplash (While In The Air)		4
+Airmatic Smacks (While In The Air)	1, 1
+Double Air Kicks (While In The Air)	3, 3
+Power Bash (While In The Air)		1, 1, 1
+Backup (While In The Air)		1, 1, 2
+Reset Fists (While In The Air)		1, 1, 3
+X Marks The Spot (While In The Air)	3, 3, 1
+Zero Cool (While In The Air)		1, 1, 4
+Ploted Tree (While In The Air)		3, 3, 2
+Shaddy Heel (While In The Air)		3, 3, 3
+Null G (While In The Air)		3, 3, 4
+Red Crown				4, 4, CS
+Shin Lord				2, 4, 4, CS
+
+Amulet Staff:
+
+Gauging Slash				1
+Turning Glowing Staff			U + 1
+Chin Cut				D + 1
+Head Chopper				2
+Twisting Hilt				B + 2
+Upward Staff				U + 2
+Reaching Edge				D + 2
+Ranged Staff				3
+Feet Cutter				B + 3
+Staff Of Power				U + 3
+Whirlwind Cop				D + 3
+Silver Slice				4
+Head Saw				D + 4
+Amulet Edge				1, B + 3
+Ancient Secret				1, U + 3
+Cutting You Up				4, 4
+Slashing Underworld			4, 4, 1
+Keeping Distance			4, 4, 3
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Leg Breaker				Throw
+Summon Fiend				D, F + 2
+Tricky Portal				D, B + 3
+Judgment Fist				D, B + 1
+
+=======================================================
+Raiden
+=======================================================
+
+Nan Chuan:
+
+Lightning Jab				1
+Side Chop				B + 1
+Shoulder Slap				F + 1
+Low Step Strike				D + 1
+Rainbow Chop				2
+Overhead Chop				B + 2
+Dual Thunder Palms			F + 2
+Palm Uppercut				D + 2
+Fast Snap Kick				3
+Hook Leg Takedown			B + 3
+Heel Strike				D + 3
+Hop Side Kick				4
+Low Chin Strike				D + 4
+Lights Out				1, 1
+Throat Punch				2, 1
+Electric Snake				2, B + 1
+Overhead Fury				2, F + 2
+Double Damage				2, 3
+Trickster				1, 1, 2
+Triple Danger				2, 1, 1
+Monkey Fists				1, 1, 2, B + 1
+Thunderous Slap				1, 1, 2, F + 1
+Trickster Fists				2, 1, 1, 2
+Static Clencher				2, 1, 1, B + 2
+Feirce Chop				1, 1, 2, B + 2
+Thunder Gods				1, 1, 2, 3
+Freight Blows				2, 1, 1, 3
+Wake The Wind				2, 1, 1, 2, B + 2
+Dark Lightning				2, 1, 1, 2, 3
+Bombardment (While In The Air)		1
+Updraft (While In The Air)		2
+Fire Fly (While In The Air)		3
+Whiplash (While In The Air)		4
+Airmatic Smacks (While In The Air)	1, 1
+Double Air Kicks (While In The Air)	3, 3
+Power Bash (While In The Air)		1, 1, 1
+Backup (While In The Air)		1, 1, 2
+Reset Fists (While In The Air)		1, 1, 3
+X Marks The Spot (While In The Air)	3, 3, 1
+Zero Cool (While In The Air)		1, 1, 4
+Ploted Tree (While In The Air)		3, 3, 2
+Shaddy Heel (While In The Air)		3, 3, 3
+Null G (While In The Air)		3, 3, 4
+Quick Chin Pops				2, 1
+Tricky Stick				2, 1, CS
+
+Staff:
+
+Overhead Strike				1
+Low One Handed Axe			D + 1
+Upward Strike				2
+Charged Stick				B + 2
+Low Strike				D + 2
+Leaping Strike				3
+Reaching Strike				B + 3
+Sweeping Strike				D + 3
+Reverse Thrust				4
+Staff Blast				U + 4
+Sweeping Swing				D + 4
+Slap Down				4, 4
+Pain From Above				4, 4, 3
+Great Lightning God			4, 4, 4
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+Whirlwind Air Flow			4, 4, B + 2
+
+Special Moves:
+
+Shocking Lift Kick			Throw
+Static Teleport				D, U + 3
+Lightning Bolt				D, B + 1
+Shocking Touch				F, F + 2
+Flying Thunder God			F, F + 4
+
+=======================================================
+Daegon
+=======================================================
+
+Fu Jow Pai:
+
+Straight Claw				1
+Knee Punch				B + 1
+The Claw				D + 1
+Upward Paw				2
+Tiger Strike				B + 2
+Uppercut				D + 2
+Back Kick				3
+Hop-Kick				B + 3
+Spinning Low Kick			D + 3
+Roundhouse				4
+Lifting Kick				B + 4
+Shin Kick				U + 4
+Low Toe Kick				D + 4
+Klaws					1, 1
+Double Striking Fists			2, 2
+the King				1, 1, 1
+Wandering Claws				1, 1, 2
+Bad Daegon				1, 1, 3
+Ground And Air				1, 1, B + 3
+Bombardment (While In The Air)		1
+Updraft (While In The Air)		2
+Fire Fly (While In The Air)		3
+Whiplash (While In The Air)		4
+Airmatic Smacks (While In The Air)	1, 1
+Double Air Kicks (While In The Air)	3, 3
+Power Bash (While In The Air)		1, 1, 1
+Backup (While In The Air)		1, 1, 2
+Reset Fists (While In The Air)		1, 1, 3
+X Marks The Spot (While In The Air)	3, 3, 1
+Zero Cool (While In The Air)		1, 1, 4
+Ploted Tree (While In The Air)		3, 3, 2
+Shaddy Heel (While In The Air)		3, 3, 3
+Null G (While In The Air)		3, 3, 4
+Traitor					1, 1, 2 CS
+
+Drakesword:
+
+Twin Stab				1
+Twin Blade Poke				D + 1
+Boot Attack				2
+Fury Blades				B + 2
+Twin Edges				3
+Low Slash				D + 3
+Swinging Slases				4
+5 Edges Of Death			B + 4
+Ducking Spinning Edges			D + 4
+Pain From The Inside			1, 1
+Deadly Twins				1, 1, 2
+Slicing Death				1, 1, 3
+Torso Slashes				1, 1, 4
+Half Moon				1, 1, 2, 3
+Fork It Over				1, 1, 2, 4
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Evil Touch				Throw
+Rolling Hatred				F, D + 2
+Rushing Shoulder			B, F + 4
+Cloak Of Avoidance			D, B + 1
+Fiery Hands				D, F + 1
+
+=======================================================
+Sonya
+=======================================================
+
+Tae Kwon Do:
+
+Side Kick				1
+Hook Kick				B + 1
+Setting Palm				D + 1
+Downward Axe Kick			2
+Rolling Heel Kick			B + 2
+Peaceful Uppercut			D + 2
+Spinning Heel				3
+Ankle Smash				B + 3
+Leg Tap					D + 3
+2-Hit Axe Kick				4
+Nitro Kicks				B + 4
+Tapping Low Kick			D + 4
+Double Kicks				1, 1
+Reverse Take Out			B + 3, 3
+Wild Boar				3, B + 3
+Clearness Of Mind			4, 4
+Dead World				1, 1, B + 2
+Wild Things				4, B + 3, 3
+Ambush (While In The Air)		1
+Danger Swipe (While In The Air)		2
+Psycho Spin (While In The Air)		3
+Over Head Air Toss (While In The Air)	4
+Downward Swat (While In The Air)	1, 1
+Tornado Twist (While In The Air)	3, 3
+Take Off (While In The Air)		1, 1, 1
+Tear Down (While In The Air)		1, 1, 2
+Mosoon (While In The Air)		1, 1, 3
+Down Slash (While In The Air)		3, 3, 1
+Flying Human (While In The Air)		3, 3, 2
+Whipcrack (While In The Air)		1, 1, 4
+Air Sails (While In The Air)		3, 3, 3
+Flicker (While In The Air)		3, 3, 4
+Throwdown (While In The Air)		1, 1, 3, 2
+Splashdown (While In The Air)		3, 3, 1, 1
+Sailing Away (While In The Air)		1, 1, 3, 3
+Whiplasher (While In The Air)		1, 1, 3, 4
+Sinking Hero (While In The Air)		3, 3, 1, 4
+Green Machine				1, 1, CS
+
+Kali Sticks:
+
+Quick Stick				1
+Crushing Blow				B + 1
+Over Head Bash				F + 1
+Leg Hit					D + 1
+Face Smack				2
+Dual Face Smack				F + 2
+Ducking Upward Poke			D + 2
+low Thigh Hit				3
+Triple Cross Attacks			B + 3
+Dual Over Head Bash			U + 3
+Tapping Stick				D + 3
+Spinning Trip Kick			B + 4
+Scissor Hit				D + 4
+Blurry Sticks				1, 1
+Hard Hitting				1, 1, 2
+Flashy Sticks				1, 1, F + 2
+Channeling Power			1, 1, U + 3
+Kobra Fangs				1, 1, 2, 4
+Take Out				1, 1, 2, 4, 3
+Windy Pain				1, 1, 2, 4, B + 3
+Powerhourse (While In The Air)		1
+Lucky Change (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Face Kicked (While In The Air)		1, 1
+Wind Kick (While In The Air)		3, 3
+Vicious Boots (While In The Air)	1, 1, 1
+Back Flip Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Foot Grab (While In The Air)		1, 1, 4
+Flip Back (While In The Air)		3, 3, 2
+Boot To The Face (While In The Air)	3, 3, 3
+Hell Toss (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Foot Assault (While In The Air)		1, 1, 3, 4
+Side Kick				4
+Twister Sticks				2, 4
+Twig Master				2, 4, 3
+False Truth				2, 4, B + 3
+
+Special Moves:
+
+Lock Down				Throw
+Kiss Of Death				D, B + 1
+Armed Forces				D, F + 2
+Face Planter				D, B + 2
+Flying Boots				F, F + 3
+
+=======================================================
+Kitana
+=======================================================
+
+Ba Gua:
+
+Ox Tongue Palm				1
+Power Palm				B + 1
+Dragon Elbow				D + 1
+Hooking Strike				2
+Spear Hand Thrust			B + 2
+Heavenly Uppercut			D + 2
+Spinning Force				3
+Lamp Shade				F + 3
+Low Jagged Kick				D + 3
+Stepping Side Kick			4
+Swinging Sweep				B + 4
+Horse Kick				U + 4
+Low Turning Kick			D + 4
+Duo Twins				1, 1
+Fly Girl				1, 2
+Chin Strikes				2, 2
+Stomach Pain				1, 3
+Plaster					1, 2, 2
+Forceful Palms				1, 1, 3
+Face Scrape				2, 2, 3
+Art Of Overkill				1, 3, F + 3
+Bagua Blast				2, 2, 4
+Busted Nails				1, 2, 2, 3
+Dark Vengence				1, 2, 2, 4
+War Cry (While In The Air)		1
+Smash Down (While In The Air)		2
+Gut Kick (While In The Air)		3
+Flip Throw (While In The Air)		4
+Downward Swat (While In The Air)	1, 1
+Air Sans (While In The Air)		3, 3
+Downward End (While In The Air)		1, 1, 1
+Swipe (While In The Air)		1, 1, 2
+Hovering Kick (While In The Air)	1, 1, 3
+Swat Team (While In The Air)		3, 3, 1
+Power Down (While In The Air)		3, 3, 2
+Crashing Wind (While In The Air)	1, 1, 4
+Spinning Wheels (While In The Air)	3, 3, 3
+End Times (While In The Air)		3, 3, 4
+Downtime (While In The Air)		3, 3, 1, 1
+Pinwheel (While In The Air)		1, 1, 3, 3
+Bounceback (While In The Air)		1, 1, 3, 4
+This Is The End (While In The Air)	3, 3, 1, 4
+Savage Sun				1, 3, CS
+
+Steel Fan:
+
+Hooking Fan				1
+Chest Strike				F + 1
+Low Stab				D + 1
+Fan Swipe				2
+Sky Strike				B + 2
+Fan Smash				F + 2
+Upward Strike				D + 2
+Piercing Kick				3
+Downward Strike				D + 3
+Neck Thrust				4
+Low Swipe				D + 4
+Swooshing Air				1, 1
+Fan Frenzy				2, 2
+Kirin Smash				3, F + 1
+Princess Blast				3, 3
+Sky High Left				1, 1, B + 2
+Stabby Fans				2, 2, F + 1
+Bootlicker				2, 2, 2
+Psycho Fans				2, 2, 2, F + 2
+Low Poke				2, 2, 2, B + 4
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Flip Kick Grab				Throw
+Pretty Kick				B, F + 3
+Fan Lift				B, F + 1
+Ground Fan				B, F + 2
+Pixie Dust Teleport			B, F + 4
+Square Wave Punch			D, B + 2
+
+=======================================================
+Mileena
+=======================================================
+
+Mian Chuan:
+
+Palm Strike				1
+Crushing Knee				B + 1
+Hurting Strike				F + 1
+Crouching Fang				D + 1
+Cotton Punch				2
+Quick Palm				B + 2
+Cold Fist				U + 2
+Rising Uppercut				D + 2
+Veil Sidekick				3
+Front Sidekick				B + 3
+Sidewinder				D + 3
+Wild Kick				4
+Juke					B + 4
+Topping Attack				D + 4
+Cold Fists				2, 2
+Cotton Boxing				B + 2, 2
+Flashy					4, 1
+Rubberband Punch			4, F + 1
+Black Flight				4, 3
+Cottons rage				B + 2, 2, 2
+War Cry (While In The Air)		1
+Smash Down (While In The Air)		2
+Gut Kick (While In The Air)		3
+Flip Throw (While In The Air)		4
+Downward Swat (While In The Air)	1, 1
+Air Sans (While In The Air)		3, 3
+Downward End (While In The Air)		1, 1, 1
+Swipe (While In The Air)		1, 1, 2
+Hovering Kick (While In The Air)	1, 1, 3
+Swat Team (While In The Air)		3, 3, 1
+Power Down (While In The Air)		3, 3, 2
+Crashing Wind (While In The Air)	1, 1, 4
+Spinning Wheels (While In The Air)	3, 3, 3
+End Times (While In The Air)		3, 3, 4
+Downtime (While In The Air)		3, 3, 1, 1
+Pinwheel (While In The Air)		1, 1, 3, 3
+Bounceback (While In The Air)		1, 1, 3, 4
+This Is The End (While In The Air)	3, 3, 1, 4
+Outworld Wonder				4, 3, CS
+
+Sai:
+
+Sai Hilt				1
+Overhead Smash				B + 1
+Low Swipe				D + 1
+Gut Stab				2
+Throat Poke				B + 2
+Rising Sai				U + 2
+Twin Fangs				F + 2
+Shin Stab				D + 2
+Foot Spike				3
+Low Poker				B + 3
+Face Slash				F + 3
+Knee Poke				D + 3
+Sweeping Sai				4
+Hooking Stab				D + 4
+Quickness				1, 1
+Sabertooth				2, F + 2
+Lightning Stabs				1, 1, 1
+Anarchy					1, 1, B + 1
+Whirling Demon				1, 1, 2
+Rising Dragon				1, 1, U + 2
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Frankensteiner				Throw
+Rolling Thunder				B, D + 4
+Soaring Sai				D, F + 2
+Kick From Above				F, F + 4
+
+=======================================================
+Jade
+=======================================================
+
+Fan Zi:
+
+Movement Attack				1
+Power Fist				B + 1
+Leg Chop				D + 1
+Dual Chest Swipe			2
+Twin Palm Uppercut			D + 2
+Shoulder Cracker			3
+Mule Kick				D + 3
+Thigh Buster				4
+Trampling Toe				F + 4
+Spinning Kick				D + 4
+Fan Zi Quan Fists			2, 2
+Hard Hands				2, 2, 1
+Havik Attack				2, 2, B + 1
+You Can't Escape			2, 2, 4
+Ambush (While In The Air)		1
+Danger Swipe (While In The Air)		2
+Psycho Spin (While In The Air)		3
+Over Head Air Toss (While In The Air)	4
+Downward Swat (While In The Air)	1, 1
+Tornado Twist (While In The Air)	3, 3
+Take Off (While In The Air)		1, 1, 1
+Tear Down (While In The Air)		1, 1, 2
+Mosoon (While In The Air)		1, 1, 3
+Down Slash (While In The Air)		3, 3, 1
+Flying Human (While In The Air)		3, 3, 2
+Whipcrack (While In The Air)		1, 1, 4
+Air Sails (While In The Air)		3, 3, 3
+Flicker (While In The Air)		3, 3, 4
+Throwdown (While In The Air)		1, 1, 3, 2
+Splashdown (While In The Air)		3, 3, 1, 1
+Sailing Away (While In The Air)		1, 1, 3, 3
+Whiplasher (While In The Air)		1, 1, 3, 4
+Sinking Hero (While In The Air)		3, 3, 1, 4
+Fan Zi Switch				2, 2, 1 CS
+
+Bojutsu:
+
+Head Knocker				1
+Crouching Upward Staff			D + 1
+Twisting Hilt				B + 2
+Turning Pole				B + 2
+Rising Long Pole			D + 2
+Underarm Hilt GLift			3
+Tricky Toe Strike			B + 3
+Amazon Power Strike			U + 3
+Shin Smasher				D + 3
+Mid-Section Reach			4
+Dancing Face Poke			U + 4
+Long Low Ranged Hit			D + 4
+Over The Top Head Hits			1, 1
+Feel The Wind				2, 1
+Rising Staff				2, B + 2
+Chin Chopper				2, 3
+Raging Demon				2, 1, 3
+Green Warrior				2, 1, U + 3
+The Hunted				2, 1, U + 4
+Powerhourse (While In The Air)		1
+Lucky Change (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Face Kicked (While In The Air)		1, 1
+Wind Kick (While In The Air)		3, 3
+Vicious Boots (While In The Air)	1, 1, 1
+Back Flip Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Foot Grab (While In The Air)		1, 1, 4
+Flip Back (While In The Air)		3, 3, 2
+Boot To The Face (While In The Air)	3, 3, 3
+Hell Toss (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Foot Assault (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Over And Out				Throw
+Vanishing Winds				B, F + 1
+Blazing Nitro Kick			B, F + 4
+Razor-Rang				D, B + 3
+Dodging Shadows				B, F + 2
+
+=======================================================
+Ashrah
+=======================================================
+
+Shaou Jaio:
+
+Wrist Chop				1
+Piercing Wrist				F + 1
+Crouching Chop				D + 1
+Nukite					2
+Vicious Uppercut			D + 2
+Side Snap Kick				3
+Off Balance Trip			B + 3
+Lifting Flat-Foot			U + 3
+Knee Bruiser				F + 3
+Ducking Snap Chip			D + 3
+Hopping Crane Kick			4
+Whirling Spin Kick			B + 4
+Soaring Crane				U + 4
+The Chicken Leg				F + 4
+Walking Steel Leg			D + 4
+Poking Hen				1, F + 1
+Stone Wrists				2, 1
+Twin Eye Poke				2, 2
+Leg Chopper				F + 4, 1
+Demon Slayer				2, 2, 1
+Feeling Lucky				2, 2, 3
+Steel Wrists				F + 4, 1, F + 1
+Onslaught (While In The Air)		1
+Spin cycle (While In The Air)		2
+Big Blast Combo (While In The Air)	3
+Rain Drop (While In The Air)		4
+Medium Hit (While In The Air)		1, 1
+The Twist (While In The Air)		3, 3
+take Off (While In The Air)		1, 1, 1
+Power Spin (While In The Air)		1, 1, 2
+Twister (While In The Air)		1, 1, 3
+Drop Down (While In The Air)		1, 1, 4
+Fierce Power (While In The Air)		3, 3, 2
+Kick Back (While In The Air)		3, 3, 3
+Bird Toss (While In The Air)		3, 3, 4
+Hurricane (While In The Air)		1, 1, 3, 2
+Gravity Strikes (While In The Air)	1, 1, 3, 3
+Over Head Air Toss (While In The Air)	1, 1, 3, 4
+Priest Of Light				2, 2, 1, CS
+
+Kriss:
+
+Chest Slash				1
+Head Slicer				B + 1
+Eye Poke				F + 1
+Low Thigh Slash				D + 1
+Down The Middle				2
+Dancing Kriss				B + 2
+Easy And Quick				U + 2
+Rising Uplift				D + 2
+Reverse Blade				3
+Low Slash				B + 3
+Neck Thruster				U + 3
+Target Practice				F + 3
+Low Quick Stab				D + 3
+Pelvis Kick				4
+Twisting Gut Cut			U + 4
+Mid-Section Pain			D + 4
+Twin Swipes				1, 1
+Fast Enough				F + 1, 1
+Kriss Kross				2, 2
+Goddess Blade				3, 4
+Fast Hands				F + 1, 1, 1
+King Thunder				3, 4, 2
+Extreme Fists				F + 1, 1, 1, 1
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+Light Cleansing Blade			3, 4, 2, 2
+
+Special Moves:
+
+See The Light				Throw
+Heavenly Light				D, B + 1
+Lightning Blast				D, F + 1
+Spin Cycle				D, U + 3
+Nature's Torpedo			F, F + 4
+
+=======================================================
+Li Mei
+=======================================================
+
+Lui He Ba Fa:
+
+SideWard Palm				1
+Hammer Palm				B + 1
+Heel Palm Strike			U + 1
+Needle Fingers				D + 1
+Uppercut				D + 2
+Leap Back Kick				3
+Sweeping Kick				B + 3
+Quick Back Sweep			D + 3
+Swinging Elbow				4
+Walking Heels				D + 4
+Fury Palms				1, 1
+Extreme Fists				1, 1, 1
+Open Fist Strike			1, 1, 2
+Swiftness				1, 1, 3
+Lifting Knee				1, 1, B + 4
+Unleashed				1, 1, 2, B + 1
+Pink Dragon				1, 1, 3, 3
+Lost Rose				1, 1, 2, 4
+War Cry (While In The Air)		1
+Smash Down (While In The Air)		2
+Gut Kick (While In The Air)		3
+Flip Throw (While In The Air)		4
+Downward Swat (While In The Air)	1, 1
+Air Sans (While In The Air)		3, 3
+Downward End (While In The Air)		1, 1, 1
+Swipe (While In The Air)		1, 1, 2
+Hovering Kick (While In The Air)	1, 1, 3
+Swat Team (While In The Air)		3, 3, 1
+Power Down (While In The Air)		3, 3, 2
+Crashing Wind (While In The Air)	1, 1, 4
+Spinning Wheels (While In The Air)	3, 3, 3
+End Times (While In The Air)		3, 3, 4
+Downtime (While In The Air)		3, 3, 1, 1
+Pinwheel (While In The Air)		1, 1, 3, 3
+Bounceback (While In The Air)		1, 1, 3, 4
+This Is The End (While In The Air)	3, 3, 1, 4
+Lady Stomp				2
+Krushing Blow				B + 4
+Fatal Kombat				2, 4
+Boot Wagon				3, 3
+Vile Sting				2, B + 1
+Soldier Of Death			2, 4, CS
+
+Kunlun Dao:
+
+Lethal Slash				1
+Leaf Cutter				U + 1
+Leg Slicer				D + 1
+Swift Wind				2
+Stomach Poke				F + 2
+Deadly Blade				D + 2
+Melee Slice				3
+1000 Deaths				B + 3
+Low Slice				D + 3
+Front Kick				4
+Leg Trip				B + 4
+Toe Poker				D + 4
+Deadly Slashes				1, 1
+Blood Thirsty				2, B + 3
+Double Hit				3, 4
+Wind Kontrol				1, 1, 2
+Kunlun's Best				1, 1, 3
+Unmatched				1, 1, 4
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Back Stomp				Throw
+Nove Blast				D, B + 1
+Carnival Spin				F, D + 3
+Flying Flurry				F, F + 2
+Flipping Heel Kick			D, B + 4
+
+=======================================================
+Tanya
+=======================================================
+
+Yue Chuan:
+
+Death Knuckle				1
+Wide Arm Palm				B + 1
+Grasping Palm				D + 1
+Forearm Strike				2
+Uppercut				D + 2
+Stomach Palm				3
+Low Freaky Kick				D + 3
+Side Kicker				4
+Low Turning Kick			B + 4
+Quick Low Kick				D + 4
+Knuckle Punches				1, 1
+Finishing Touch				2, B + 1
+Lucky Tricks				3, 2
+Power Heels				3, 3
+Yellow Tail				4, 4
+Knuckle Master				1, 1, 1
+Let's Dance				1, 1, 2
+Savage Hands				3, 2, B + 1
+War Cry (While In The Air)		1
+Smash Down (While In The Air)		2
+Gut Kick (While In The Air)		3
+Flip Throw (While In The Air)		4
+Downward Swat (While In The Air)	1, 1
+Air Sans (While In The Air)		3, 3
+Downward End (While In The Air)		1, 1, 1
+Swipe (While In The Air)		1, 1, 2
+Hovering Kick (While In The Air)	1, 1, 3
+Swat Team (While In The Air)		3, 3, 1
+Power Down (While In The Air)		3, 3, 2
+Crashing Wind (While In The Air)	1, 1, 4
+Spinning Wheels (While In The Air)	3, 3, 3
+End Times (While In The Air)		3, 3, 4
+Downtime (While In The Air)		3, 3, 1, 1
+Pinwheel (While In The Air)		1, 1, 3, 3
+Bounceback (While In The Air)		1, 1, 3, 4
+This Is The End (While In The Air)	3, 3, 1, 4
+Triple Stike Change			3, 2, CS
+Passion Of Stikes			3, 2, CS, 4
+
+Kobu Jutsu:
+
+Underarm Twirl				1
+Overhead Smash				B + 1
+Inward Dual Strike			U + 1
+Crossing Low Strike			D + 1
+Head Basher				2
+Razor Swipes				B + 2
+Cutting Uppercut			D + 2
+Crossing Tonfa				3
+Crushing Side Blow			B + 3
+Low Snap Kick				D + 3
+Elbow End				4
+Long Ranged Trip			B + 4
+Defensive Bash				U + 4
+Walking Short Kick			D + 4
+Underarm Slap				1, 1
+Heat Strikes				B + 2, 1
+Tonfa Bashing				B + 2, B + 1
+Head Knocker				B + 2, 2
+Tonfa Steel End				B + 2, 4
+Yellow Sticks				4, 4
+Dual Tonfa Snuff			1, 1, U + 1
+Mad Momma				B + 2, 1, 1
+Vengence Strikes			B + 2, 4, 4
+Cloud Stars				B + 2, 1, 1, U + 1
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Front Flip				Throw
+Human Cannon Drill			F, F + 3
+Air Fire Blast				D, U + 2
+Surging Blast				D, B + 2
+Split Flip Kick				D, B + 4
+Find Me					U, D + 1
+
+=======================================================
+Frost
+=======================================================
+
+Tong Bei:
+
+Cold Strike				1
+Spinning Fist				B + 1
+Icy Over Hit				U + 1
+Ducking Punch				D + 1
+Crushiing Hands				2
+Uppercut				D + 2
+Icy Crane				3
+Icy Trip				B + 3
+Low Flesh Kick				D + 3
+Freezing Boots				4
+Dancing Queen				B + 4
+Frost Toes				U + 4
+Creeping Toes				D + 4
+Fast Leo Paws				1, 1
+Falling Strike				1, 2
+Head Bruiser				2, 2
+Icy Snap				2, 3
+Ice Pick				2, 4
+Face Strikers				1, 1, 1
+Corkscrew Blow				1, 1, 2
+Ice Crusher				1, 1, B + 2
+Icy Maul				1, 1, 2, 2
+Northern Lights				1, 1, 2, U + 4
+War Cry (While In The Air)		1
+Smash Down (While In The Air)		2
+Gut Kick (While In The Air)		3
+Flip Throw (While In The Air)		4
+Downward Swat (While In The Air)	1, 1
+Air Sans (While In The Air)		3, 3
+Downward End (While In The Air)		1, 1, 1
+Swipe (While In The Air)		1, 1, 2
+Hovering Kick (While In The Air)	1, 1, 3
+Swat Team (While In The Air)		3, 3, 1
+Power Down (While In The Air)		3, 3, 2
+Crashing Wind (While In The Air)	1, 1, 4
+Spinning Wheels (While In The Air)	3, 3, 3
+End Times (While In The Air)		3, 3, 4
+Downtime (While In The Air)		3, 3, 1, 1
+Pinwheel (While In The Air)		1, 1, 3, 3
+Bounceback (While In The Air)		1, 1, 3, 4
+This Is The End (While In The Air)	3, 3, 1, 4
+Stopped Cold				1, 1, 2, CS
+
+Daggers:
+
+Frosty Stab				1
+Ice Sting				F + 1
+Killah Spikes				D + 1
+Upward Slash				2
+Baclhand Smack				B + 2
+Shin Stab				D + 2
+Forward Stab				3
+Twin Ice Dragons			B + 3
+Frost Bitten				D + 3
+Power Kick				4
+Upward Dagger				D + 4
+Shards Of Pain				1, 1
+Spinning Hilt				2, B + 2
+Up And Down				2, 3
+Frozen Tips				1, 1, 1
+Vertical Slice				1, 1, 2
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Arctic Touch Grab			Throw
+Ground Freeze				D, B + 3
+Frosty Slide				D, F + 4
+Teleporting Uppercut			D, B + 4
+Ice Puddle				D, B + 1
+
+=======================================================
+Sindel
+=======================================================
+
+Zha Chuan:
+
+Yoke Punch				1
+Chest Clencher				B + 1
+Mantis Claw				D + 1
+Roaring Fist				2
+Southern Uppercut			D + 2
+Rising Axe Kick				3
+Twisting Sweep				B + 3
+Spring Leg				U + 3
+Low Spring Kick				D + 3
+texas Sidekick				4
+Slithering Foot				D + 4
+Moslim Fists				1, 1
+Spider Legs				4, 4
+Justice					1, 1, 1
+Burning Fist				1, 1, 2
+Southern Sidekicks			1, 1, 4
+Cunning Killer				4, 4, 4
+Ambush (While In The Air)		1
+Danger Swipe (While In The Air)		2
+Psycho Spin (While In The Air)		3
+Over Head Air Toss (While In The Air)	4
+Downward Swat (While In The Air)	1, 1
+Tornado Twist (While In The Air)	3, 3
+Take Off (While In The Air)		1, 1, 1
+Tear Down (While In The Air)		1, 1, 2
+Mosoon (While In The Air)		1, 1, 3
+Down Slash (While In The Air)		3, 3, 1
+Flying Human (While In The Air)		3, 3, 2
+Whipcrack (While In The Air)		1, 1, 4
+Air Sails (While In The Air)		3, 3, 3
+Flicker (While In The Air)		3, 3, 4
+Throwdown (While In The Air)		1, 1, 3, 2
+Splashdown (While In The Air)		3, 3, 1, 1
+Sailing Away (While In The Air)		1, 1, 3, 3
+Whiplasher (While In The Air)		1, 1, 3, 4
+Sinking Hero (While In The Air)		3, 3, 1, 4
+Fan Zi Switch				2, 2, 1 CS
+
+Kwan Do:
+
+Gauging Slash				1
+Turning Amazon				U + 1
+Chin Cut				D + 1
+Head Chopper				2
+Twisting Razor Staff			B + 2
+Tripping Razor Edge			U + 2
+Reaching Edge				D + 2
+Ranged Blade				3
+Feet Cutter				B + 3
+Rising Kwan End				U + 3
+Whirlwind Chop				D + 3
+Liver Slice				4
+Head Saw				D + 4
+Sindel's Edge				1, B + 3
+Ancient Secret				1, U + 3
+Cutting You Up				4, 4
+Slashing Queen				4, 4, 1
+Keeping Distance			4, 4, 3
+Powerhourse (While In The Air)		1
+Lucky Change (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Face Kicked (While In The Air)		1, 1
+Wind Kick (While In The Air)		3, 3
+Vicious Boots (While In The Air)	1, 1, 1
+Back Flip Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Foot Grab (While In The Air)		1, 1, 4
+Flip Back (While In The Air)		3, 3, 2
+Boot To The Face (While In The Air)	3, 3, 3
+Hell Toss (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Foot Assault (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Heel To The Gut				Throw
+Banshee Scream				F, F + 1
+Star Screamer				F, F + 3
+Sliding Foot Grab			B, F + 1
+
+=======================================================
+Nitara
+=======================================================
+
+Leopard:
+
+Leopard Paw				1
+Low Paw Strike				D + 1
+Knuckle Fist				2
+Upward Jackhammer			B + 2
+Batting Practice			D + 2
+Leg Trip				B + 3
+Walking Heels				D + 3
+Razor Heels				4
+Spinning Sweep Kick			D + 4
+Blurry Punches				1, 1
+Deadly Dawn				2, 3
+Hidden Killer				2, 4
+Knuckle Pain				1, 1, 1
+Saber Uppercut				1, 1, B + 1
+Double Palm				1, 1, U + 1
+Point Claws				1, 1, 2
+Power Spin Kick				1, 1, 3
+Outstanding Results			1, 1, 2, 4
+Ambush (While In The Air)		1
+Danger Swipe (While In The Air)		2
+Psycho Spin (While In The Air)		3
+Over Head Air Toss (While In The Air)	4
+Downward Swat (While In The Air)	1, 1
+Tornado Twist (While In The Air)	3, 3
+Take Off (While In The Air)		1, 1, 1
+Tear Down (While In The Air)		1, 1, 2
+Mosoon (While In The Air)		1, 1, 3
+Down Slash (While In The Air)		3, 3, 1
+Flying Human (While In The Air)		3, 3, 2
+Whipcrack (While In The Air)		1, 1, 4
+Air Sails (While In The Air)		3, 3, 3
+Flicker (While In The Air)		3, 3, 4
+Throwdown (While In The Air)		1, 1, 3, 2
+Splashdown (While In The Air)		3, 3, 1, 1
+Sailing Away (While In The Air)		1, 1, 3, 3
+Whiplasher (While In The Air)		1, 1, 3, 4
+Sinking Hero (While In The Air)		3, 3, 1, 4
+Scissor Death				2, 3, CS
+Death Rising				B + 1
+Double Palm				U + 1
+Twisting Leg				3
+
+Kama:
+
+Swinging Chop				1
+Swift Air				B + 1
+low Attack				D + 1
+Upward Swing				2
+Double Bladed Uppercut			D + 2
+Side Slice				3
+Down Knee Blender			B + 3
+Crouching Uppercut			D + 3
+Bat Swing				4
+Weed Chopper				B + 4
+Berzerker Kama's			F + 4
+Ducking Mid-Section Slash		D + 4
+Blood Lusting				1, 1
+Blood Butcher				2, 2
+Uplifting Horror			3, 4
+Fresh Ripper				1, 1, 1
+Death Seeker				1, 1, 4
+Blood Frenzy				1, 1, F + 4
+Powerhourse (While In The Air)		1
+Lucky Change (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Face Kicked (While In The Air)		1, 1
+Wind Kick (While In The Air)		3, 3
+Vicious Boots (While In The Air)	1, 1, 1
+Back Flip Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Foot Grab (While In The Air)		1, 1, 4
+Flip Back (While In The Air)		3, 3, 2
+Boot To The Face (While In The Air)	3, 3, 3
+Hell Toss (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Foot Assault (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Blood Thirst				Throw
+Unicorn Kick				B, D + 4
+Blood Spit				D, B + 2
+Jumping Blood Spit			D, U + 2
+Air Blood Spit (In Air)			D, B + 2
+Quick Escape				F, B + 3
+
+=======================================================
+Kira
+=======================================================
+
+Yuan Yang:
+
+open Handed Strike			1
+Strong Fist				F + 1
+Low Punch				D + 1
+Dual Duck Strike			2
+War Hammer Uppercut			D + 2
+Roundhouse Thrust			3
+Lifting Leg				U + 3
+Mandarin Leg				D + 3
+Ducking Strike				4
+Frozen Wind				B + 4
+Chill Foot				D + 4
+Cold Fingers				1, 1
+Mandarin Fists				1, 2
+Funny Boots				4, 4
+Mandarin Duck Legs			1, 1, U + 3
+Red Kira				4, 4, 1
+Evil Presence				4, 4, F + 1
+Deadly Decoy				4, 4, 3
+Mountain Air				4, 4, U + 3
+Ice Fists				4, 4, 1, 1
+Hard Core Fighter			4, 4, 1, 2
+War Cry (While In The Air)		1
+Smash Down (While In The Air)		2
+Gut Kick (While In The Air)		3
+Flip Throw (While In The Air)		4
+Downward Swat (While In The Air)	1, 1
+Air Sans (While In The Air)		3, 3
+Downward End (While In The Air)		1, 1, 1
+Swipe (While In The Air)		1, 1, 2
+Hovering Kick (While In The Air)	1, 1, 3
+Swat Team (While In The Air)		3, 3, 1
+Power Down (While In The Air)		3, 3, 2
+Crashing Wind (While In The Air)	1, 1, 4
+Spinning Wheels (While In The Air)	3, 3, 3
+End Times (While In The Air)		3, 3, 4
+Downtime (While In The Air)		3, 3, 1, 1
+Pinwheel (While In The Air)		1, 1, 3, 3
+Bounceback (While In The Air)		1, 1, 3, 4
+This Is The End (While In The Air)	3, 3, 1, 4
+Aussie Hunter				1, 2 CS
+
+Dragon Teeth:
+
+Forward Chest Slashes			1
+Downward Circling Sword			B + 1
+Low Upward Knife			D + 1
+Rising Dragon Teeth			2
+Upward Circling Teeth			B + 2
+Uppercut				D + 2
+Frontal Stab				3
+Tippy Toe Stab				U + 3
+Dragon Push				F + 3
+Low Tippy Kick				D + 3
+Front Sidekick				4
+Spinning Dragon Kick			B + 4
+Low Spin Kick				D + 4
+Dragon Tooth				1, 3
+Snap Dragon Kick			4, 4
+Black Dragon Tail			4, 4, 4
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Aussie Bulldog				Throw
+Black Dragon Ball			B, F + 4
+Kiss Of Death				B, F + 1
+Nightshade				D, F + 3
+
+=======================================================
+Sareena
+=======================================================
+
+Ba Shan Fan:
+
+Backfist				1
+Smashing Fist				B + 1
+Lowering Punch				D + 1
+Chest Backfist				2
+Smashing Elbow				U + 2
+Power Punch				F + 2
+Rising Fist				D + 2
+Stomach kick				3
+Shun Pain				B + 3
+Twisting Low Kick			D + 3
+Front Kick				4
+Creeping Kick				D + 4
+Look Out				2, 1
+Double Backfist				2, B + 1
+Cruncher				1, 3
+Leg Bash				1, B + 3
+Tricks					1, 4
+War Cry (While In The Air)		1
+Smash Down (While In The Air)		2
+Gut Kick (While In The Air)		3
+Flip Throw (While In The Air)		4
+Downward Swat (While In The Air)	1, 1
+Air Sans (While In The Air)		3, 3
+Downward End (While In The Air)		1, 1, 1
+Swipe (While In The Air)		1, 1, 2
+Hovering Kick (While In The Air)	1, 1, 3
+Swat Team (While In The Air)		3, 3, 1
+Power Down (While In The Air)		3, 3, 2
+Crashing Wind (While In The Air)	1, 1, 4
+Spinning Wheels (While In The Air)	3, 3, 3
+End Times (While In The Air)		3, 3, 4
+Downtime (While In The Air)		3, 3, 1, 1
+Pinwheel (While In The Air)		1, 1, 3, 3
+Bounceback (While In The Air)		1, 1, 3, 4
+This Is The End (While In The Air)	3, 3, 1, 4
+Krazied Lady				2, 1, CS
+
+Demon Fang:
+
+Lethal Slash				1
+Leaf Cutter				U + 1
+Leg Slicer				D + 1
+Swift Wind				2
+Stomach Poke				F + 2
+Deadly Blade				D + 2
+Melee Slice				3
+1000 Deaths				B + 3
+Low Slice				D + 3
+Leg Trip				B + 4
+Toe Poker				D + 4
+Basic Slashes				1, 1
+Blood Thirst				2, B + 3
+Double Hit				3, 4
+Wind Kontrol				1, 1, 2
+Kunlun's Best				1, 1, 3
+Unmatched				1, 1, 4
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Sneeky Knee				Throw
+5-Star Kick				B, F + 3
+Gut Buster				D, B + 1
+Throwing Knife				B, F + 2
+Skull Bash				F, F + 1
+
+=======================================================
+Sheeva
+=======================================================
+
+Kuatan:
+
+Dragon Hands				1
+Excessive Punch				F + 1
+Ducking Hook Punch			D + 1
+Damaging Fist				2
+Double Hand Uppercut			D + 2
+Kuatan Spin Kick			3
+Quick Shin Attack			B + 3
+Low Kick				D + 3
+Snuff Kick				4
+Tricky Poke				F + 4
+Ankle Hit				D + 4
+Rushing Madman				2, 1
+Swift Like The Wind			2, 2
+Face Smasher				2, 2, F + 1
+Rawr					2, 2, 3
+Fallout (While In The Air)              1
+Airborne (While In The Air)             2
+Straight Up (While In The Air)          3
+Over Head Air Toss (While In The Air)   4
+Flying Kick (While In The Air)          1, 1
+Power Slam (While In The Air)           2, 2
+Straight Forward (While In The Air)     3, 3
+Gravity Strike (While In The Air)       1, 1, 1
+Toss Ya! (While In The Air)             1, 1, 2
+Ending It Now (While In The Air)        1, 1, 3
+Grounded (While In The Air)             3, 3, 2
+Air Death (While In The Air)            1, 1, 4
+Air Kick (While In The Air)             3, 3, 3
+Time To Hover (While In The Air)        3, 3, 4
+Furious Stab				2, 2, CS
+
+Shokan Blades:
+
+Head Slash				1
+Upper Slash				B + 1
+Knife Swipe				2
+Hyper Slash				F + 2
+Turn Around Slash			3
+Mid-Section Stab			4
+2 Arm Swipe				1, 2
+Wicked					2, 1
+Turn Around				1, 3
+Head Slam				1, 4
+Smooth Slice				1, 2, 3
+Stomach Stab				1, 2, 4
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Chest Pounding				Throw
+Untamed Fury				B, F + 1
+Death From Above			D, U + 3
+Furious Stomp				U, D + 3
+Searing Blast				D, F + 2
+
+=======================================================
+Baraka
+=======================================================
+
+Silat:
+
+Quick Punch				1
+Spinning Elbow				B + 1
+Nomad Cross				F + 1
+Ducking Cross Punch			D + 1
+Vertical Elbow				2
+Frontwards Elbow			F + 2
+Rising Uppercut				D + 2
+Thai Knee				3
+Ankle Kick				B + 3
+Jumping Roundhouse			U + 3
+Crouching Kick				D + 3
+Front Sidekick				4
+Hop Dragon Sweep			B + 4
+Low Demon Spinkick			D + 4
+Steel Punches				1, 1
+Head Spinner				B + 1, 2
+Rocky Road				B + 1, 3
+Tripple takeout				1, 1, 1
+Speedy Elbow				1, 1, 2
+Chest Damageer				1, 1, 3
+Silat's Salute				1, 1, 4
+Onslaught (While In The Air)		1
+Spin cycle (While In The Air)		2
+Big Blast Combo (While In The Air)	3
+Rain Drop (While In The Air)		4
+Medium Hit (While In The Air)		1, 1
+The Twist (While In The Air)		3, 3
+take Off (While In The Air)		1, 1, 1
+Power Spin (While In The Air)		1, 1, 2
+Twister (While In The Air)		1, 1, 3
+Drop Down (While In The Air)		1, 1, 4
+Fierce Power (While In The Air)		3, 3, 2
+Kick Back (While In The Air)		3, 3, 3
+Bird Toss (While In The Air)		3, 3, 4
+Hurricane (While In The Air)		1, 1, 3, 2
+Gravity Strikes (While In The Air)	1, 1, 3, 3
+Over Head Air Toss (While In The Air)	1, 1, 3, 4
+Stay Down				1, 1, CS
+
+Blades:
+
+Downwards Slashes			1
+Mid-Ripper				B + 1
+Face Impaler				F + 1
+Low Scissors				D + 1
+Throat Slas				2
+Send Them Flying			U + 2
+Chest Slash				F + 2
+Crouching Dual Stab			D + 2
+Scarlet Swing				3
+Up And Beyond				U + 3
+Get The Point				F + 3
+Toe Slash				D + 3
+Spinning Sidekick			4
+Demon Sweep				B + 4
+Shin Stab				D + 4
+Slashing Wind				1, 1
+Long Tips				2, 1
+Mithril Metal				2, 2
+Cyclone					3, 3
+Frenzy Slashes				2, 1, 1
+Khan's Warrior				3, 3, 2
+Baraka's Special			3, 3, 4
+Death's Door				3, 3, 2, 1
+Mutant Spikes				3, 3, 2, 2
+Out Of Kontral Slashes			3, 3, 2, 1, 1
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Spine Buster				Throw
+Flying Shard				D, B + 1
+Mutant Blades				F, F + 3
+Chop Chop Blades			D, U + 3
+
+=======================================================
+Motaro
+=======================================================
+
+Horse:
+
+Gut Strike				1
+Furious Palm				B + 1
+Low Finger Stab				D + 1
+Bone Smasher				2
+Wild Beast Smash			B + 2
+Chin Popper				D + 2
+Stomach Swipe				3
+Hoove Pain				D + 3
+Scooper					4
+Spinning Knuckles			B + 4 
+Horse Leg				D + 4
+Second Arrival				1, 1
+Double Elbow Kombo			2, 2
+Follow Your Gut				3, 1
+Deadly Taro				3, 4
+the Charm				1, 1, 1
+Horse Is Down				1, 1, 2
+Horse Palm				3, 1, 1
+Final Scooper				1, 1, 4
+Elbow Room				1, 1, 2, 2
+
+Special Moves:
+
+Fierce Toss				Throw
+Power Charge				B, F + 1
+Donkey Kick				D, B + 4
+Teleport				D, U + 2
+Mount Stance				D, B + 3
+Tail Projectile (From Mount Stance)	1
+Low Shoulder Charge (From Mount Stance)	2
+Propel (From Mount Stance)		3
+Back To Normal Stance(From Mount Stance)4
+
+=======================================================
+Havik
+=======================================================
+
+Tang Soo Do:
+
+Open Palm				1
+Downward Elbow				B + 1
+Knee Chop				D + 1
+Forward Open Palm			2
+hard Fist				F + 2
+Power Uppercut				D + 2
+Front Ball Kick				3
+Spinning Sidekick			B + 3
+Inside Crescent Kick			F + 3
+Low Parallel Kick			D + 3
+Knife Hook				4
+Low Foot Strike				D + 4
+Tango					1, 1
+Face Breaker				2, 2
+Head Knocker				B + 1, 3
+Flood Plant				2, 3
+Hero Of Pain				3, 3
+Time Stopper				B + 1, 4
+Rushing Palm				1, 1, 1
+Open Palms				1, 1, 2
+Skull Warrior				1, 1, 3
+Elbow Pain				B + 1, 3, 3
+Triple Air				2, 3, 4
+Burning Flesh				1, 1, 2, 2
+Nightfall				1, 1, 2, F + 2
+Gloomy Road				1, 1, 2, 3
+Vile Habit				1, 1, 3, 3
+Decaying Guard				1, 1, 2, 3, 4
+Ambush (While In The Air)		1
+Danger Swipe (While In The Air)		2
+Psycho Spin (While In The Air)		3
+Over Head Air Toss (While In The Air)	4
+Downward Swat (While In The Air)	1, 1
+Tornado Twist (While In The Air)	3, 3
+Take Off (While In The Air)		1, 1, 1
+Tear Down (While In The Air)		1, 1, 2
+Mosoon (While In The Air)		1, 1, 3
+Down Slash (While In The Air)		3, 3, 1
+Flying Human (While In The Air)		3, 3, 2
+Whipcrack (While In The Air)		1, 1, 4
+Air Sails (While In The Air)		3, 3, 3
+Flicker (While In The Air)		3, 3, 4
+Throwdown (While In The Air)		1, 1, 3, 2
+Splashdown (While In The Air)		3, 3, 1, 1
+Sailing Away (While In The Air)		1, 1, 3, 3
+Whiplasher (While In The Air)		1, 1, 3, 4
+Rotting Spike				1, 1, 2, CS
+
+Morning Star:
+
+Iron Swing				1
+Knock-Down				B + 1
+Stomach Stab				F + 1
+Knee Punch				D + 1
+Finger Jab				2
+Uplifting Mace				B + 2
+Upward Mace				D + 2
+Downwards Spike				3
+Two Handed Swing			B + 3
+Spikes To The Thighs			U + 3
+Toe Bash				D + 3
+Hip Takeout				4
+Rib Slap				F + 4
+Shin Swipe				D + 4
+Basic Steps				2, 2
+Fast Fists				2, 2, 2
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Chaos Axe Kick				Throw
+Torso Spin				D, B + 1
+Diving Corpse				B, D + 1
+Crackling Legs Projectile		B, F + 3
+Head Snap				B, F + 2
+Corpse Taunt				F, B + 4
+
+=======================================================
+Drahmin
+=======================================================
+
+Hung Gar:
+
+Krusty Claws				1
+Double Claw Strike			B + 1
+Leg Punch				D + 1
+Chameleon Palm				2
+Razor Nails				B + 2
+Oni-Cut					D + 2
+Twisting Kick				3
+Turning Low Foot			B + 3
+Quick Shin Kick				F + 3
+Low Kick				D + 3
+Twisting Sidekick			4
+Roundhouse Sweep			B + 4
+Leaping Frog Legs			U + 4
+Wake The Dead Leg			D + 4
+Dragon's Scratch			1, 1
+Open Palm Fury				1, 1, B + 1
+Chameleon Trap				1, 1, 2
+Dreadful Things				1, 1, 4
+Fallout (While In The Air)              1
+Airborne (While In The Air)             2
+Straight Up (While In The Air)          3
+Over Head Air Toss (While In The Air)   4
+Flying Kick (While In The Air)          1, 1
+Power Slam (While In The Air)           2, 2
+Straight Forward (While In The Air)     3, 3
+Gravity Strike (While In The Air)       1, 1, 1
+Toss Ya! (While In The Air)             1, 1, 2
+Ending It Now (While In The Air)        1, 1, 3
+Grounded (While In The Air)             3, 3, 2
+Air Death (While In The Air)            1, 1, 4
+Air Kick (While In The Air)             3, 3, 3
+Time To Hover (While In The Air)        3, 3, 4
+Iron Smack				1, 1, CS
+
+Iron Club:
+
+Club Bunt				1
+Bloody Bash				B + 1
+Ducking Gut Punch			D + 1
+Old Timer				2
+Black Jack Strike			B + 2
+Rocket Launcher				D + 2
+Power Mummy				3
+Leg Bruiser				B + 3
+Abdominal Pain				D + 3
+Shoulder Chop				4
+Psycho Power Swing			B + 4
+Ducking Snap Kick			D + 4
+Clubbing It				1, 1
+Iron Pain				1, 3
+Iron Fist				1, 1, 1
+Klubbing Time				1, 1, 2
+Stench Of Decay				1, 1, B + 2
+Krusty Skin				1, 1, 4
+Thrash Out (While In The Air)		1
+Bogie (While In The Air)		2
+Long Legs (While In The Air)		3
+Spinning Feet Grab (While In The Air)	4
+Rebel (While In The Air)		1, 1
+Airborne Kick (While In The Air)	3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Spinning Kick (While In The Air)	1, 1, 2
+Lucky Wind (While In The Air)		1, 1, 3
+Somersault (While In The Air)		3, 3, 2
+Flip Down (While In The Air)		1, 1, 4
+Boot To The Face (While In The Air)	3, 3, 3
+Pincer Throw (While In The Air)		3, 3, 4
+Guiding Light (While In The Air)	1, 1, 3, 3
+Zero Gravity (While In The Air)		1, 1, 3, 4
+
+Special Moves:
+
+Punching Bag				Throw
+Ball-O-Flies				B, F + 1
+Propeller Clock				F, F + 2
+Rising Uppercut				D, B + 1
+Ground Smash				B, F, D + 3
+
+=======================================================
+Moloch
+=======================================================
+
+Moloch:
+
+Deadly Claw				1
+Stronger Uppercut			B + 1
+Twisting Palm				D + 1
+Stone Claw				2
+Wind Thang				D + 2
+Creature Kick				3
+Ultra Feirce Trip			B + 3
+Flying Claws				U + 2
+Ducking Low Kick			D + 3
+Head hunter				4
+Unstopable Force			F + 4
+Creeping Leg				D + 4
+Inches From Death			1, 1
+Monster Bash				1, 2
+Lurking Creature			D + 4, D + 3
+Blast Off				1, 1, B + 1
+Untamed Beast				1, 1, U + 3
+Hidden Danger				1, 1, D + 3
+
+Special Moves:
+
+Angry Creature Grab			Throw
+Power Ball				D, B + 1
+Super Charge				B, F + 1
+Ragin Oni				B, F + 4
+Beast Lord				B, F + 2
+Furious Howl				D, U + 2
+Ground Bash				U, D + 3
+Suction Breath				D, B + 4
+
+=======================================================
+Meat
+=======================================================
+
+Wrestling:
+
+Back Breaker				1
+Shoulder Toss				B + 1
+Toe Jam					F + 1
+Mid-Section Punch			D + 1
+Right Cross Arm				2
+Uppercut				D + 2
+Foot Planter				3
+Quick Trip Kick				B + 3
+Leaping Boot Kick			U + 3
+Low Flesh Kick				D + 3
+Brutal Knee				4
+Jumping Spin Kick			B + 4
+Creeping Toes				D + 4
+Twister Punches				2, 2
+Knocked Out				2, 2, 2
+Bloody Monday				2, 2, 4
+Bombardment (While In The Air)		1
+Updraft (While In The Air)		2
+Fire Fly (While In The Air)		3
+Whiplash (While In The Air)		4
+Airmatic Smacks (While In The Air)	1, 1
+Double Air Kicks (While In The Air)	3, 3
+Power Bash (While In The Air)		1, 1, 1
+Backup (While In The Air)		1, 1, 2
+Reset Fists (While In The Air)		1, 1, 3
+X Marks The Spot (While In The Air)	3, 3, 1
+Zero Cool (While In The Air)		1, 1, 4
+Ploted Tree (While In The Air)		3, 3, 2
+Shaddy Heel (While In The Air)		3, 3, 3
+Null G (While In The Air)		3, 3, 4
+Rotting Flesh				2, 2, CS
+
+Cleavers:
+
+Upward Slash				1
+Downward Circling Sword			B + 1
+Low Upward Knife			D + 1
+Twisting Slash				2
+Upward Circling Doom			B + 2
+Cleaver Cut				D + 2
+Double Cleaver Cross			3
+Rising Blood Teeth			B + 3
+Head Stab				U + 3
+Low Tippy Kick				D + 3
+Crunchy Boot				4
+Spinning Dragon Kick			D + 4
+Low Spin Kick				D + 4
+Double Ripper				1, 1
+Psycho Cleaver				B + 1, B + 2
+Fleshy Push				1, 3
+Neck Chopper				1, 1, 2
+Cleaver Tips				1, 1, U + 3
+Bloody Slime				1, 1, 4
+Downfall (While In The Air)		1
+Lucky Change (While In The Air)		2
+Marked Humanoid (While In The Air)	3
+Spinning Feet grab (While In The Air)	4
+Stinky Air (While In The Air)		1, 1
+Hyper Gust (While In The Air)		3, 3
+Fresh Air (While In The Air)		1, 1, 1
+Air Slinky (While In The Air)		1, 1, 2
+Airway (While In The Air)		1, 1, 3
+Gut Kick (While In The Air)		3, 3, 1
+Shove It (While In The Air)		1, 1, 4
+barrel Roll (While In The Air)		3, 3, 3
+Downward Spiral (While In The Air)	3, 3, 4
+Air Barrel (While In The Air)		1, 1, 3, 3
+It's All Over (While In The Air)	3, 3, 1, 1
+Back In Action (While In The Air)	3, 3, 1, 2
+Boot Slam (While In The Air)		1, 1, 3, 4
+Zero G (While In The Air)		3, 3, 1, 4
+
+Special Moves:
+
+Fleshy Approach				Throw
+Head Roll				D, B + 1
+Meat Leg Slide				B, F + 3
+Body Mutilation				B, F + 2
+Flesh Teleport				U, D + 3
+
+=======================================================
+Shao Kahn
+=======================================================
+
+Tai Tzu:
+
+Crushing Punch				1
+Smashing Fist				B + 1
+Low Punch				D + 1
+Head Knocker				2
+Burning Palms				B + 2
+Uppercut				D + 2
+Stomach Kick				3
+Twisting Leg				B + 3
+Crouching Low Kick			D + 3
+Power Head Kick				4
+Cruncher				F + 4
+Quick Low Kick				D + 4
+Crushing Fists				1, 1
+Twisting Evil				2, 3
+Black Out				2. 4
+Blows Of Doom				1, 1, 1
+Twisting Knocker			1, 1, 2
+Hellfire Doom				1, 1, 3
+Angry Ruler				1, 1, CS
+
+Wrath Hammer:
+
+Face Smasher				1
+Raging Uproar				B + 1
+Blunt End				D + 1
+Screaming Hammer			2
+Dizzyness				F + 2
+Power Swing				D + 2
+hammer Stomper				3
+Low Hammer Hit				F + 3
+Shin Destroyer				D + 3
+Power Kick				4
+Krazy Swing				B + 4
+Cheap Shot				D + 4
+
+Special Moves:
+
+Uplifting Smack				Throw
+Explosive Blast				D, F + 1
+Uplifting Knee				B. F + 3
+Charging Spikes				F, F + 2
+Emporer's Shield			D, B + 1
+Mystic Choke				D, F + 3
+Ridicule				D, U + 1
+
+=======================================================
+Goro
+=======================================================
+
+Shokan:
+
+Shokan Jab				1
+Vicious Swing				B + 1
+Face Flat				U + 1
+Low Punch				D + 1
+Center Chop				2
+Angry Slap				B + 2
+Uppercut Slap				D + 2
+Chest Stomp				3
+Low Shokan Kick				B + 3
+Low Creeping Kick			D + 3
+Pain Giver				4
+Long Reach Poke				D + 4
+Quick Death				1, 1
+Killer Slap				1, 2
+Stomp You				2, 3
+Goro's Pain				1, 4
+Gripping Death				1, 1, 3
+King Of Shokans				1, 2, CS
+
+Dragon Fangs:
+
+Chest Slash				1
+Face Slash				B + 1
+Upward Cut				U + 1
+Low Thigh Cut				D + 1
+Quick Stomach Strike			2
+4 Arm Lifter				U + 2
+Uppercut				D + 2
+Face Knocker				3
+Low Arm Swing				B + 3
+Knockdown Slap				F + 3
+Low Tap					D + 3
+Chin Stun				4
+Power Slap				F + 4
+Low Stun Kick				D + 4
+Stomach Punches				2, 2
+Face Crusher				4, 3
+Flurry Claws				2, 2, 1
+Hands Of Fury				2, 2, 4
+
+Special Moves:
+
+Four Armed Price			Throw
+Ultimate Force				D, B + 1
+Spinning Slaps				D, F + 2
+Tremor Pound				U, D + 3
+Leaping Stomp				D, U + 3
+
+=======================================================
+Kintaro
+=======================================================
+
+Tiger Fist:
+
+Hammer It Home				1
+Low Punch				D + 1
+Hook Punch				2
+Vicious Swing				B + 2
+Uppercut Slap				D + 2
+Hunter Kick				3
+Spinning Kin Kick			B + 3
+Low Creeping Kick			D + 3
+face Flat				4
+Long Reach Poke				D + 4
+Angry Slap				1, 2
+Shokan Nitrokick			1, 3
+Hard Face Hit				1, 4
+Beast Kontrol				1, 4, CS
+
+Saber Teeth:
+
+Chest Slash				1
+Low Thigh Cut				D + 1
+Saber Tooth Scratch			2
+Uppercut				D + 2
+Power Elbow				3
+Low Tap					D + 3
+Kintarto's Point			4
+Claw Trip				B + 4
+Low Stun Kick				D + 4
+Saber Tooth Bite			4, 2
+Saber Jab				4, 4
+Damage Teeth				4, 2, 1
+Wrath Of Pain				4, 4, 1
+Kintaro's Edge				4, 4, 3
+3-Hit Claws				4, 4, 4
+
+Special Moves:
+
+Beasty Toss				Throw
+Breathe					D, B + 1
+4 Armed Grab				D, F + 1
+Fiery Hands				D, B + 2
+Shokan Roar				U, D + 3
+
+=======================================================
+Onaga
+=======================================================
+
+Dragon Reach				1
+Dragon Side Swipe			B + 1
+Low Finger Stab				D + 1
+Collar Bone Buster			2
+Forceful Hand				B + 2
+King Sweep				D + 2
+Groin Kick				3
+Long Reach Foot Trip			B + 3
+Crouching Dragon			D + 3
+Fast Stomach Crunch Kick		4
+Dragon Heel				D + 4
+king Klaws				1, 1
+Roar Of The King			2, 2
+Deceptive Fury				4, B + 1
+Moon Kicks				4, 3
+Triple Dragon Hit			1, 1, 1
+Horror Swipe				1, 1, B + 2
+
+Special Moves:
+
+Forceful Doom				Throw
+Dragon's Fire				D, F + 1
+Jumping Stomp				D, U + 2 
+Sliding Kick				D, B + 4
+Dirty Kick				D, B + 3
+Flame Breath				D, B + 2
+
+=======================================================
+Blaze
+=======================================================
+
+Melting Pot				1
+Flaming Forehead			F + 1
+Low Flame Hand				D + 1
+Infernal Crunch				2
+Rising Flames				B + 2
+Blazing Uppercut			D + 2
+Scoop Of Lava				3
+Low Flame Kick				D + 3
+Stepping Flame				4
+Lava Trip				B + 4
+Hot Heels				D + 4
+Fiery Slap				1, 1
+Melting Death				1, 2
+Cinder Fumes				B + 4, 4
+Third Scoop				1, 1, 3
+Molten Death				1, 1, 4
+
+Special Moves:
+
+Throw					Throw
+Quake Slam				D, D + 2
+Steam Roller				F, F + 1
+Charge Up				U, U + 2
+Melting Lava Teleport			D, U + 1
+
+================================================================
+
+		      Mortal Kombat RO Wiki
+		    Mortal Kombat: Armageddon
+		       Special Moves Guide
+	  	For PlayStation 2, X-Box, and Wii
